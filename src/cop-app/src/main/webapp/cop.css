@@ -1,0 +1,121 @@
+@CHARSET "UTF-8";
+body {
+    font-family: Segoe UI, sans-serif !important;
+}
+
+.tooltip {
+    position: absolute;
+    z-index: 10;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 1px solid black;
+    color: black;
+    padding: 5px;
+    font-size: 10px;
+    pointer-events: none;
+
+}
+
+.tooltip-measure {
+    opacity: 1;
+    font-weight: bold;
+}
+
+.tooltip-static {
+    background-color: #ffcc33;
+    color: black;
+    border: 1px solid white;
+}
+
+.tooltip-measure:before, .tooltip-static:before {
+    border-top: 6px solid rgba(0, 0, 0, 0.5);
+    border-right: 6px solid transparent;
+    border-left: 6px solid transparent;
+    content: "";
+    position: absolute;
+    bottom: -6px;
+    margin-left: -7px;
+    left: 50%;
+}
+
+.tooltip-static:before {
+    border-top-color: #ffcc33;
+}
+
+.ol-geocoder.gcd-gl-container {
+    top: 1em
+}
+
+.toolbar-coords-label {
+    padding-bottom: 10px;
+    font-family: Tahoma, Arial, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.ol-overviewmap .ol-overviewmap-map {
+    width: 300px;
+    height: 300px;
+}
+
+.ol-geocoder .gcd-gl-input {
+    font-family: tahoma, arial, verdana, sans-serif;
+}
+
+.ol-mouse-position {
+    font-family: tahoma, arial, verdana, sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    left: 30%;
+}
+
+#map-legend {
+    right: 0.5em;
+    bottom: 0.5em;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.8);
+    max-width: 30%;
+    max-height: 30%;
+    overflow: auto;
+    padding: 5px;
+    border: 1px solid lightgray;
+    font-size: 70%;
+    line-height: 1.2em;
+    min-width: 51px;
+    min-height: 17px;
+}
+
+#map-legend .description {
+    border: 1px solid lightgray;
+    margin-bottom: 15px;
+    background: #eee;
+}
+
+#map-legend .description:last-of-type {
+    margin-bottom: 0;
+}
+
+#map-legend button {
+    color: #fff;
+    text-decoration: none;
+    background-color: rgba(0, 60, 136, .5);
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+#map-legend.collapsed {
+    max-width: 51px;
+    max-height: 17px;
+    padding: 0;
+    overflow: hidden;
+}
+
+#map-legend .color-square {
+    margin: 0 3px;
+    border: 1px solid gray;
+    border-radius: 50%;
+    display: inline-block;
+    width: 1vh;
+    height: 1vh;
+    vertical-align: middle;
+}

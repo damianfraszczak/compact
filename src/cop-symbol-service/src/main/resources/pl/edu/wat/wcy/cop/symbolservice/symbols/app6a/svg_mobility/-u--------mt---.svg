@@ -1,0 +1,16 @@
+<!--Wskaznik mobilnosci sprzetu - pojazd kolej plik "wms_pojazdKolej_nzn.svg"-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" >
+<!--SVG content generated using Symbology Configuration Management System (SCMS)-->
+<!--Systematic Software Engineering Ltd. www.systematic.co.uk Copyright 2003 - do not remove-->
+
+<svg id="wms_pojazdKolej_nzn-1" width="400px" height="400px" viewBox="0 0 400 400">
+<g >
+
+<line x1="27" y1="375" x2="372" y2="375" style="fill:rgb(0,0,0);stroke:RGB(0,0,0);stroke-width:10"></line>
+<circle cx="40" cy="389" r="10" style="fill:none;stroke:rgb(0,0,0);stroke-width:10"></circle>
+<circle cx="360" cy="389" r="10" style="fill:none;stroke:rgb(0,0,0);stroke-width:10"></circle>
+<circle cx="70" cy="389" r="10" style="fill:none;stroke:rgb(0,0,0);stroke-width:10"></circle>
+<circle cx="330" cy="389" r="10" style="fill:none;stroke:rgb(0,0,0);stroke-width:10"></circle>
+
+</g>
+</svg>

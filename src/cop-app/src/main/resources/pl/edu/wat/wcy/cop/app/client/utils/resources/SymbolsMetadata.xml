@@ -1,0 +1,3837 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<symbol>
+    <code>0</code>
+    <description>Symbole MSWiA</description>
+
+    <symbol>
+        <code>3</code>
+        <description>Policja</description>
+
+        <symbol>
+            <code>3.1</code>
+            <description>Siedziby komend Policji i stanowiska kierowania
+            </description>
+
+            <symbol>
+                <code>3.1.001</code>
+                <description>Siedziba Komendy Głównej Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.1.002</code>
+                <description>Siedziba Komendy Wojewodźkiej Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.1.003</code>
+                <description>Siedziba Komendy Stołecznej Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.1.004</code>
+                <description>Stanowisko kierowania komendanta (dowódcy) jednostki
+                    organizacyjnej Policji - znak ogólny
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.1.005</code>
+                <description>Stanowisko kierowania Komendanta Głównego Policji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.1.006</code>
+                <description>Stanowisko kierowania Komendanta Wojewódźkiego
+                    Policji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.1.007</code>
+                <description>Stanowisko kierowania Komendanta Powiatowego Policji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.1.008</code>
+                <description>Stanowisko kierowania Komendanta Miejskiego Policji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.1.009</code>
+                <description>Stanowisko kierowania Dowódcy Operacji</description>
+            </symbol>
+            <symbol>
+                <code>3.1.010</code>
+                <description>Stanowisko kierowania Dowódcy Podoperacji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.1.011</code>
+                <description>Stanowisko kierowania Dowódcy Odcinka</description>
+            </symbol>
+            <symbol>
+                <code>3.1.012</code>
+                <description>Stanowisko kierowania Dowódcy Pododcinka
+                </description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>3.2</code>
+            <description>Jednostki Policji</description>
+
+
+            <symbol>
+                <code>3.2.001</code>
+                <description>Komenda Powiatowa Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.002</code>
+                <description>Komenda Miejska Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.003</code>
+                <description>Komenda Rejonowa Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.004</code>
+                <description>Komisariat Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.005</code>
+                <description>Komisariat Kolejowy Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.006</code>
+                <description>Komisariat Lotniczy Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.007</code>
+                <description>Komisariat Rzeczny Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.008</code>
+                <description>Posterunek Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.009</code>
+                <description>Oddział Prewencji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.010</code>
+                <description>Samodzielny Pododdział Prewencji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.011</code>
+                <description>Pododział Prewencji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.012</code>
+                <description>Samodzielny Pododział Antyterrorystyczny
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.2.013</code>
+                <description>Pododdział‚ Antyterrorystyczny</description>
+            </symbol>
+            <symbol>
+                <code>3.2.014</code>
+                <description>Jednostka niewyszkolonych funkcjonariuszy Policji -
+                    znak ogólny
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.2.015</code>
+                <description>Wyższa Szkoła Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.016</code>
+                <description>Szkoła Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.017</code>
+                <description>Centrum Szkolenia Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.018</code>
+                <description>Ośrodek Szkolenia Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.2.019</code>
+                <description>Grupa płetwonurków z podaniem liczby funkcjonariuszy
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.2.020</code>
+                <description>Antyterrorystyczna grupa szturmowa</description>
+            </symbol>
+            <symbol>
+                <code>3.2.021</code>
+                <description>Grupa szturmowa Centralnego Biura Śledczego
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.2.022</code>
+                <description>Grupa dochodzeniowo-śledcza</description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>3.3</code>
+            <description>Jednostki (pododdziały) w marszu</description>
+
+        </symbol>
+        <symbol>
+            <code>3.4</code>
+            <description>Uzbrojenie, transport i wyposażenie</description>
+
+            <symbol>
+                <code>3.4.001</code>
+                <description>Samochód Policji - znak ogólny</description>
+            </symbol>
+            <symbol>
+                <code>3.4.002</code>
+                <description>Samochód Policji - nieoznakowany</description>
+            </symbol>
+            <symbol>
+                <code>3.4.003</code>
+                <description>Samochód Policji z video radarem</description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>3.5</code>
+            <description>Siły i środki Policji w działaniach</description>
+
+            <symbol>
+                <code>3.5.036</code>
+                <description>Konwój pieszy - znak ogólny</description>
+            </symbol>
+            <symbol>
+                <code>3.5.038_1</code>
+                <description>Konwój pieszy z podaniem liczby funkcjonariuszy i
+                    osób konwojowanych (w liczniku)
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.5.041</code>
+                <description>Policjant negocjator</description>
+            </symbol>
+            <symbol>
+                <code>3.5.042</code>
+                <description>Zespół negocjatorów z podaniem liczby
+                    funkcjonariuszy
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.5.104</code>
+                <description>Punkt kontrolny zorganizowany siłami Policji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.5.105</code>
+                <description>Punkt amunicyjny</description>
+            </symbol>
+            <symbol>
+                <code>3.5.106</code>
+                <description>Policyjny punkt kontroli ruchu</description>
+            </symbol>
+            <symbol>
+                <code>3.5.107</code>
+                <description>Punkt zbiórki uszkodzonego sprzętu - policyjny
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.5.108</code>
+                <description>Punkt ewakuacyjny - miejsce gromadzenia
+                    poszkodowanych poklicjantów
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.5.109</code>
+                <description>Punkt gromadzenia zatrzymanych</description>
+            </symbol>
+            <symbol>
+                <code>3.5.110</code>
+                <description>Punkt (miejsce) zbiórki policjantów</description>
+            </symbol>
+            <symbol>
+                <code>3.5.111</code>
+                <description>Punkt (miejsce) zbiórki rezerw osobowych
+                    przewidzianych na uzupełnienie jednostki zmilitaryzowanej
+                    Policji
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.5.112</code>
+                <description>Punkt zbiórki alarmowej</description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>3.6</code>
+            <description>Działania przestępcy (przeciwnika) oraz zdarzenia
+                katastrofalne (wypadki,zniszczenia)
+            </description>
+
+            <symbol>
+                <code>3.6.001</code>
+                <description>Osoba, ktora popełniła przestępstwo (przestepca)
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.6.002</code>
+                <description>Przestępca uzbrojony w bron palna</description>
+            </symbol>
+            <symbol>
+                <code>3.6.003</code>
+                <description>Przestępca wyposażony w niebezpieczne narzedzie
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.6.004</code>
+                <description>Przestępca wyposażony w ładunek wybuchowy
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.6.005</code>
+                <description>Terrorysta</description>
+            </symbol>
+            <symbol>
+                <code>3.6.007</code>
+                <description>Przestępca w samochodzie osobowym</description>
+            </symbol>
+            <symbol>
+                <code>3.6.009</code>
+                <description>Stwierdzony przemarsz osoby(ob), która popełniła
+                    przestępstwo graniczne - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.6.010</code>
+                <description>Miejsce kradzieży</description>
+            </symbol>
+            <symbol>
+                <code>3.6.011</code>
+                <description>Miejsce włamania</description>
+            </symbol>
+            <symbol>
+                <code>3.6.021</code>
+                <description>Miejsce zatrucia osób</description>
+            </symbol>
+            <symbol>
+                <code>3.6.022</code>
+                <description>Miejsce zatrucia zwierzat</description>
+            </symbol>
+            <symbol>
+                <code>3.6.023</code>
+                <description>Miejsce wykrycia środka trujacego</description>
+            </symbol>
+            <symbol>
+                <code>3.6.024</code>
+                <description>Zasadzka zorganizowana przez przestepców
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.6.025</code>
+                <description>Ustalone miejsce przebywania osoby(ob), która
+                    pomaga(ja) w przestępstwie lub wykroczeniu
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.6.026</code>
+                <description>Miejsce znalezienia przedmiotów ukrytych,
+                    porzuconych badź zagubionych przez sprawce przestepstwa lub
+                    wykroczenia
+                </description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>3.7</code>
+            <description>Środki i infrastruktura łączności</description>
+
+            <symbol>
+                <code>3.7.001</code>
+                <description>Umocniony stacjonarny wezeł łacznosci (usytuowany w
+                    obiekcie wzmocnionym pod wzgledem inżynieryjnym, odpornym na
+                    działanie czynników zewnetrznych) - w opisie nazwa organu
+                    obsługiwanego
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.002</code>
+                <description>Nieumocniony stacjonarny wezeł łacznosci - w opisie
+                    nazwa organu obsługiwanego
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.003</code>
+                <description>Ruchomy wezeł łacznosci - w opisie nazwa organu
+                    obsługiwanego
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.008</code>
+                <description>Radiostacja krótkofalowa - stacjonarna</description>
+            </symbol>
+            <symbol>
+                <code>3.7.009</code>
+                <description>Radiostacja krótkofalowa - przewożona (zamontowana)
+                    na pojeździe kołowym
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.012</code>
+                <description>Radiostacja ultrakrótkofalowa - przenośna
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.013</code>
+                <description>Radiostacja ultrakrótkofalowa - stacjonarna
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.014</code>
+                <description>Radiostacja ultrakrótkofalowa - przewożona
+                    (zamontowana) na pojeździe kołowym
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.7.016</code>
+                <description>Radiostacja VHF - stacjonarna</description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>3.8</code>
+            <description>Obiekty infrastruktury</description>
+
+            <symbol>
+                <code>3.8.001</code>
+                <description>Ambulatorium Policji</description>
+            </symbol>
+            <symbol>
+                <code>3.8.002</code>
+                <description>Policyjna izba dziecka</description>
+            </symbol>
+            <symbol>
+                <code>3.8.003</code>
+                <description>Areszt śledczy</description>
+            </symbol>
+            <symbol>
+                <code>3.8.004</code>
+                <description>Zakład karny</description>
+            </symbol>
+            <symbol>
+                <code>3.8.005</code>
+                <description>Ośrodek dla cudzoziemców ubiegajacych się o status
+                    uchodźcy dozorowany przez Straz Graniczna
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.8.006</code>
+                <description>Ośrodek strzeżony dla cudzoziemców dozorowany przez
+                    Straż Graniczną
+                </description>
+            </symbol>
+            <symbol>
+                <code>3.8.007</code>
+                <description>Szpital - znak ogólny</description>
+            </symbol>
+            <symbol>
+                <code>3.8.008</code>
+                <description>Szpital MSWiA</description>
+            </symbol>
+            <symbol>
+                <code>3.8.009</code>
+                <description>Szpital MON</description>
+            </symbol>
+
+        </symbol>
+
+    </symbol>
+    <symbol>
+        <code>4</code>
+        <description>Straż Graniczna</description>
+
+        <symbol>
+            <code>4.1</code>
+            <description>Siedziby komend oddziałów Straży Granicznej i
+                stanowiska kierowania
+            </description>
+
+            <symbol>
+                <code>4.1.1</code>
+                <description>Obiekty Straży Granicznej jako obiekty szczególnie
+                    ważne dia bezpieczeństwa i obronności państwa
+                </description>
+
+                <symbol>
+                    <code>4.1.1.001</code>
+                    <description>Obiekt Komendy Głównej Straży Granicznej jako
+                        obiekt szczególnie ważny dla bezpieczeństwa i obronności
+                        państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.002</code>
+                    <description>Obiekt Komendy oddziału Straży Granicznej - znak
+                        ogólny, jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.003</code>
+                    <description>Obiekt komendy ośrodka szkolenia Straży Granicznej
+                        - znak ogólny, jako obiekt szczególnie ważny dla
+                        bezpieczeństwa i obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.004</code>
+                    <description>Obiekt komendy Warmińsko-Mazurskiego Oddziału
+                        Straży Granicznej jako obiekt szczególnie ważny dla
+                        bezpieczeństwa i obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.005</code>
+                    <description>Obiekt komendy Podlaskiego Oddziału Straży
+                        Granicznej jako obiektu szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.006</code>
+                    <description>Obiekt komendy Nadbużanskiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.007</code>
+                    <description>Obiekt komendy Bieszczadzkiego Oddzialu Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.008</code>
+                    <description>Obiekt komendy Karpackiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.009</code>
+                    <description>Obiekt komendy Ślaskiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.010</code>
+                    <description>Obiekt komendy Sudeckiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.011</code>
+                    <description>Obiekt komendy Łużyckiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.012</code>
+                    <description>Obiekt komendy Lubuskiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.013</code>
+                    <description>Obiekt komendy Pomorskiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.014</code>
+                    <description>Obiekt komendy Morskiego Oddzialu Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności paśstwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.015</code>
+                    <description>Obiekt komendy Nadwiślanskiego Oddziału Straży
+                        Granicznej jako obiekt szczególnie ważny dla bezpieczeństwa i
+                        obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.016</code>
+                    <description>Obiekt komendy Centrum Szkolenia Straży Granicznej
+                        jako obiekt szczególnie ważny dla bezpieczeństwa i obronności
+                        państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.017</code>
+                    <description>Obiekt komendy Centralnego Ośrodka Szkolenia
+                        Straży Granicznej jako obiekt szczególnie ważny dla
+                        bezpieczeństwa i obronności państwa
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.1.1.018</code>
+                    <description>Obiekt komendy Ośrodka Tresury Psów Służbowych
+                        Straży Granicznej jako obiekt szczególnie ważny dla
+                        bezpieczeństwa i obronności państwa
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.1.001</code>
+                <description>Siedziba Komendy Głównej Straży Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.002</code>
+                <description>Siedziba komendy oddziału Straży Granicznej - znak
+                    ogólny
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.003</code>
+                <description>Siedziba komendy ośrodka szkolenia Straży Granicznej
+                    - znak ogólny
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.004</code>
+                <description>Siedziba komendy Warmińsko-Mazurskiego Oddziału
+                    Straży Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.005</code>
+                <description>Siedziba komendy Podlaskiego Oddzialu Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.006</code>
+                <description>Siedziba komendy Nadbużanskiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.007</code>
+                <description>Siedziba komendy Bieszczadzkiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.008</code>
+                <description>Siedziba komendy Karpackiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.009</code>
+                <description>Siedziba Komendy Ślaskiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.010</code>
+                <description>Siedziba Komendy Sudeckiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.011</code>
+                <description>Siedziba Komendy Łuzyckiego Oddzialu Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.012</code>
+                <description>Siedziba Komendy Lubuskiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.013</code>
+                <description>Siedziba Komendy Pomorskiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.014</code>
+                <description>Siedziba komendy Morskiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.015</code>
+                <description>Siedziba Komendy Nadwiślańskiego Oddziału Straży
+                    Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.016</code>
+                <description>Siedziba Komendy Centrum Szkolenia Straży Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.017</code>
+                <description>Siedziba Komendy Centralnego Ośrodka Szkolenia
+                    Straży Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.018</code>
+                <description>Siedziba Komendy Ośrodka Tresury Psów Służbowych
+                    Straży Granicznej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.019</code>
+                <description>Wojenne Stanowisko Kierowania Straży Granicznej (WSK
+                    SG) - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.020</code>
+                <description>Wojenne Stanowisko Kierowania Straży Granicznej (WSK
+                    SG) - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.021</code>
+                <description>Wojenne Stanowisko Kierowania Straży Granicznej (WSK
+                    SG) - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.022</code>
+                <description>Wojenne Stanowisko Kierowania oddziału/ośrodka
+                    szkolenia Straży Granicznej - Główne (znak ogólny - nazwy
+                    oddziałów/ośrodków szkolenia określane odpowiednim skrótem)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.023</code>
+                <description>Wojenne Stanowisko Kierowania oddziału/ośrodka
+                    szkolenia Straży Granicznej - Zapasowe (znak ogólny - nazwy
+                    oddziałów/ośrodków szkolenia określane odpowiednim skrótem)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.024</code>
+                <description>Wojenne Stanowisko Kierowania oddziału/ośrodka
+                    szkolenia Straży Granicznej - Zapasowe Miejsce Pracy (znak
+                    ogólny nazwy oddziałów/ośrodkow szkolenia określane odpowiednim
+                    skrótem
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.025</code>
+                <description>Wojenne Stanowisko Kierowania Warmińsko-Mazurskiego
+                    Oddziału Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.026</code>
+                <description>Wojenne Stanowisko Kierowania Warmińsko-Mazurskiego
+                    Oddziału Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.027</code>
+                <description>Wojenne Stanowisko Kierowania Warmińsko-Mazurskiego
+                    Oddziału Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.028</code>
+                <description>Wojenne Stanowisko Kierowania Podlaskiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.029</code>
+                <description>Wojenne Stanowisko Kierowania Podlaskiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.030</code>
+                <description>Wojenne Stanowisko Kierowania Podlaskiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.031</code>
+                <description>Wojenne Stanowisko Kierowania Nadbużańskiego
+                    Oddziału Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.032</code>
+                <description>Wojenne Stanowisko Kierowania Nadbużańskiego
+                    Oddziału Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.033</code>
+                <description>Wojenne Stanowisko Kierowania Nadbużańskiego
+                    Oddziału Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.034</code>
+                <description>Wojenne Stanowisko Kierowania Bieszczadzkiego
+                    Oddziału Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.035</code>
+                <description>Wojenne Stanowisko Kierowania Bieszczadzkiego
+                    Oddziału Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.036</code>
+                <description>Wojenne Stanowisko Kierowania Bieszczadzkiego
+                    Oddziału Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.037</code>
+                <description>Wojenne Stanowisko Kierowania Karpackiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.038</code>
+                <description>Wojenne Stanowisko Kierowania Bieszczadzkiego
+                    Oddziału Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.039</code>
+                <description>Wojenne Stanowisko Kierowania Karpackiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.040</code>
+                <description>Wojenne Stanowisko Kierowania Śląskiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.041</code>
+                <description>Wojenne Stanowisko Kierowania Śląskiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.042</code>
+                <description>Wojenne Stanowisko Kierowania Śląskiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.043</code>
+                <description>Wojenne Stanowisko Kierowania Sudeckiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.044</code>
+                <description>Wojenne Stanowisko Kierowania Sudeckiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.045</code>
+                <description>Wojenne Stanowisko Kierowania Sudeckiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.046</code>
+                <description>Wojenne Stanowisko Kierowania Łużyckiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.047</code>
+                <description>Wojenne Stanowisko Kierowania Łużyckiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.048</code>
+                <description>Wojenne Stanowisko Kierowania Łużyckiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.049</code>
+                <description>Wojenne Stanowisko Kierowania Lubuskiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.050</code>
+                <description>Wojenne Stanowisko Kierowania Lubuskiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.051</code>
+                <description>Wojenne Stanowisko Kierowania Lubuskiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.052</code>
+                <description>Wojenne Stanowisko Kierowania Pomorskiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.053</code>
+                <description>Wojenne Stanowisko Kierowania Pomorskiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.054</code>
+                <description>Wojenne Stanowisko Kierowania Pomorskiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.055</code>
+                <description>Wojenne Stanowisko Kierowania Morskiego Oddziału
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.056</code>
+                <description>Wojenne Stanowisko Kierowania Morskiego Oddziału
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.057</code>
+                <description>Wojenne Stanowisko Kierowania Morskiego Oddziału
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.058</code>
+                <description>Wojenne Stanowisko Kierowania Nadwiślańskiego
+                    Oddziału Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.059</code>
+                <description>Wojenne Stanowisko Kierowania Nadwślańskiego
+                    Oddziału Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.060</code>
+                <description>Wojenne Stanowisko Kierowania Nadwiślańskiego
+                    Oddziału Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.061</code>
+                <description>Wojenne Stanowisko Kierowania Centrum Szkolenia
+                    Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.062</code>
+                <description>Wojenne Stanowisko Kierowania Centrum Szkolenia
+                    Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.063</code>
+                <description>Wojenne Stanowisko Kierowania Centrum Szkolenia
+                    Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.064</code>
+                <description>Wojenne Stanowisko Kierowania Centralnego Ośrodka
+                    Szkolenia Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.065</code>
+                <description>Wojenne Stanowisko Kierowania Centralnego Ośrodka
+                    Szkolenia Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.066</code>
+                <description>Wojenne Stanowisko Kierowania Centralnego Ośrodka
+                    Szkolenia Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.067</code>
+                <description>Wojenne Stanowisko Kierowania Osrodka Tresury Psów
+                    Służbowych Straży Granicznej - Główne
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.068</code>
+                <description>Wojenne Stanowisko Kierowania Osrodka Tresury Psów
+                    Służbowych Straży Granicznej - Zapasowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.1.069</code>
+                <description>Wojenne Stanowisko Kierowania Osrodka Tresury Psów
+                    Służbowych Straży Granicznej - Zapasowe Miejsce Pracy
+                </description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.2</code>
+            <description>Jednostki i placówki Straży Granicznej</description>
+
+            <symbol>
+                <code>4.2.1</code>
+                <description>Jednostki straży granicznej</description>
+
+                <symbol>
+                    <code>4.2.1.002</code>
+                    <description>Oddział Straży Granicznej - znak ogólny
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.003</code>
+                    <description>Warmińsko-Mazurski Oddział Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.004</code>
+                    <description>Podlaski Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.005</code>
+                    <description>Nadbużański Oddział Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.006</code>
+                    <description>Bieszczadzki Oddział Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.007</code>
+                    <description>Karpacki Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.008</code>
+                    <description>Śląski Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.009</code>
+                    <description>Sudecki Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.010</code>
+                    <description>Łużycki Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.011</code>
+                    <description>Lubuski Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.012</code>
+                    <description>Pomorski Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.013</code>
+                    <description>Morski Oddział Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.014</code>
+                    <description>Nadwislański Oddział Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.015</code>
+                    <description>Centrum Szkolenia Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.016</code>
+                    <description>Centralny Ośrodek Szkolenia Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.017</code>
+                    <description>Ośrodek Tresury Psów Służbowych Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.018</code>
+                    <description>Jednostka niewyszkolonych funkcjonariuszy Straży
+                        Granicznej znak ogólny - szczebel organizacyjny określony
+                        odpowiednim wskaźnikiem (modyfikatorem) wielkości
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.019</code>
+                    <description>Jednostka odwodowa Straży Granicznej - szczebel
+                        organizacyjny określony odpowiednim wskaźnikiem
+                        (modyfikatorem) wielkości
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.020</code>
+                    <description>Kaszubski dywizjon Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.021</code>
+                    <description>Pomorski dywizjon Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.022</code>
+                    <description>Pododdział odwodowy Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.023</code>
+                    <description>Samodzielny pododdział odwodowy Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.1.024</code>
+                    <description>Grupa operacyjno-śledcza - znak ogólny
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.2.2</code>
+                <description>Dywizjony i placówki Straży Granicznej</description>
+
+                <symbol>
+                    <code>4.2.2.001</code>
+                    <description>Kaszubski dywizjon Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.2.002</code>
+                    <description>Pomorski dywizjon Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.2.2.003</code>
+                    <description>Placówka Straży Granicznej - znak ogólny
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.2.004</code>
+                    <description>Placówka Straży Granicznej - kategorii I
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.2.005</code>
+                    <description>Placówka Straży Granicznej - kategorii II
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.2.006</code>
+                    <description>Placówka Straży Granicznej - kategorii III
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.2.2.007</code>
+                    <description>Placówka Straży Granicznej - kategorii IV
+                    </description>
+                </symbol>
+
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.3</code>
+            <description>Przejścia graniczne</description>
+
+            <symbol>
+                <code>4.3.001</code>
+                <description>Przejście graniczne (znak ogólny)</description>
+            </symbol>
+            <symbol>
+                <code>4.3.002</code>
+                <description>Przejście graniczne planowane do otwarcia (znak
+                    ogólny)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.003</code>
+                <description>Przejście turystyczne , przejście graniczne na
+                    szlaku turystycznym przecinajacym granice państwową, miejsce
+                    przekraczania granicy na szlaku turystycznym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.004</code>
+                <description>Przejście graniczne małego ruchu granicznego
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.005</code>
+                <description>Przejście graniczne drogowe</description>
+            </symbol>
+            <symbol>
+                <code>4.3.006</code>
+                <description>Przejście graniczne kolejowe</description>
+            </symbol>
+            <symbol>
+                <code>4.3.007</code>
+                <description>Przejście graniczne - lotnicze</description>
+            </symbol>
+            <symbol>
+                <code>4.3.008</code>
+                <description>Przejście graniczne - morskie</description>
+            </symbol>
+            <symbol>
+                <code>4.3.009</code>
+                <description>Przejście graniczne - drogowe i kolejowe
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.010</code>
+                <description>Przejście graniczne - rzeczne</description>
+            </symbol>
+            <symbol>
+                <code>4.3.011</code>
+                <description>Siedziba placówki Straży Granicznej z przejściem
+                    granicznym (znak ogólny)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.012</code>
+                <description>Siedziba placówki Straży Granicznej z drogowym
+                    przejściem granicznym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.013</code>
+                <description>Siedziba placówki Straży Granicznej z drogowym i
+                    kolejowym przejściem granicznym (znak ogólny)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.014</code>
+                <description>Siedziba placówki Straży Granicznej z lotniczym
+                    przejsciem granicznym (znak ogólny)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.015</code>
+                <description>Siedziba placówki Straży Granicznej z rzecznym
+                    przejsciem granicznym (znak ogólny)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.016</code>
+                <description>Siedziba placówki Straży Granicznej z morskim
+                    przejściem granicznym (znak ogólny)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.017</code>
+                <description>Siedziba Morskiej Służby Poszukiwania i Ratownictwa
+                    (SAR)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.018</code>
+                <description>Siedziba Morskiego Ratowniczego Centrum
+                    Koordynacyjnego w Gdyni w ramach Morskiej Służby Poszukiwania i
+                    Ratownictwa (SAR)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.019</code>
+                <description>Siedziba brzegowej stacji ratowniczej w ramach
+                    Morskiej Służby Poszukiwania i Ratownictwa (SAR)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.020</code>
+                <description>Siedziba brzegowej stacji ratowniczej w ramach
+                    Morskiej Służby Poszukiwania i Ratownictwa (SAR)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.021</code>
+                <description>Siedziba Centralnego Ośrodka Nadzoru (CON)
+                    Zautomatyzowanego Systemu Radarowego Nadzoru (ZSRN) polskich
+                    obszarów morskich
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.022</code>
+                <description>Siedziba Zapasowego Ośrodka Nadzoru (ZCON)
+                    Zautomatyzowanego Systemu Radarowego Nadzoru (ZSRN) polskich
+                    obszarów morskich
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.023</code>
+                <description>Siedziba Lokalnego Ośrodka Nadzoru (LON)
+                    Zautomatyzowanego Systemu Radarowego Nadzoru (ZSRN) polskich
+                    obszarów morskich
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.3.024</code>
+                <description>Siedziba Dywizjonowego Ośrodka Nadzoru (DON)
+                    Zautomatyzowanego Systemu Radarowego Nadzoru (ZSRN) polskich
+                    obszarów morskich
+                </description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.4</code>
+            <description>Stanowiska kierowania, zespoły kierowania działaniami,
+                zespoły zarządzania kryzysowego i służby dyżurne
+            </description>
+
+            <symbol>
+                <code>4.4.1</code>
+                <description>Stanowiska zespołów kierowania działaniami Straży
+                    Granicznej
+                </description>
+
+                <symbol>
+                    <code>4.4.1.001</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.002</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Warmińsko-Mazurskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.003</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Podlaskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.004</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Nadbużańskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.005</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami
+                        (ZKD)Bieszczadzkiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.006</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Śląskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.007</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Sudeckiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.008</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Łużyckiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.009</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Lubuskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.010</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Pomorskiego Oddzialu Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.011</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Morskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.012</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Nadwiślańskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.013</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Centrum Szkolenia Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.014</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Centralnego Ośrodka Szkolenia Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.1.015</code>
+                    <description>Stanowisko Zespółu Kierowania Działaniami (ZKD)
+                        Osródka Tresury Psów Służbowych Straży Granicznej
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.4.2</code>
+                <description>Służba dyżurna operacyjna</description>
+
+                <symbol>
+                    <code>4.4.2.001</code>
+                    <description>Slużba Dyżurna Operacyjna (SDO) Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.002</code>
+                    <description>Służba Dyżurna Operacyjna (SDO)
+                        Warmińsko-Mazurskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.003</code>
+                    <description>Służba Dyżurna operacyjna (SDO)
+                        Warmińsko-Mazurskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.004</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Nadbużańskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.005</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Bieszczadzkiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.006</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Karpackiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.007</code>
+                    <description>Slużba Dyżurna Operacyjna (SDO) Śląskiego Oddziału
+                        Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.008</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Sudeckiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.009</code>
+                    <description>Słuzba Dyżurna Operacyjna (SDO) Lużyckiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.010</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Lubuskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.011</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Pomorskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.012</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Morskiego Oddzialu
+                        Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.013</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Nadwiślańskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.014</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Centrum Szkolenia
+                        Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.015</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Centralnego
+                        Ośrodka Szkolenia Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.2.016</code>
+                    <description>Służba Dyżurna Operacyjna (SDO) Ośrodka Szkolenia
+                        Tresury Psów Służbowych Straży Granicznej
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.4.3</code>
+                <description>Zespoły zarządzania kryzysowego</description>
+
+                <symbol>
+                    <code>4.4.3.001</code>
+                    <description>Zespół Zarzadzania Kryzysowego Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.002</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK)
+                        Warmińsko-Mazurskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.003</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Podlaskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.004</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK)
+                        Nadbużańskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.005</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK)
+                        Bieszczackiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.006</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Karpackiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.007</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Śląskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.008</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Sudeckiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.009</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Łużyckiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.010</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Lubuskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.011</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Pomorskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.012</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Morskiego
+                        Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.013</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK)
+                        Nadwiślańskiego Oddziału Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.014</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Centrum
+                        Szkolenia Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.015</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Centralnego
+                        Ośrodka Szkolenia Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.4.3.016</code>
+                    <description>Zespół Zarzadzania Kryzysowego (ZZK) Ośrodka
+                        Szkolenia Tresury Psów Służbowych Straży Granicznej
+                    </description>
+                </symbol>
+
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.5</code>
+            <description>Organy ochrony granicy państwowej państwa sąsiedniego
+            </description>
+
+            <symbol>
+                <code>4.5.1</code>
+                <description>Placówki ochrony granicy państwowej państw
+                    sąsiednich
+                </description>
+
+                <symbol>
+                    <code>4.5.1.001</code>
+                    <description>Placówka ochrony granicy państwowej Federacji
+                        Rosyjskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.1.002</code>
+                    <description>Placówka ochrony granicy państwowej Republiki
+                        Litwy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.1.003</code>
+                    <description>Placówka ochrony granicy państwowej Republiki
+                        Białorusi
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.1.004</code>
+                    <description>Placówka ochrony granicy państwowej Republiki
+                        Ukrainy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.1.005</code>
+                    <description>Placówka ochrony granicy państwowej Republiki
+                        Słowackiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.1.006</code>
+                    <description>Placówka ochrony granicy państwowejRepubliki
+                        Czeskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.1.007</code>
+                    <description>Placówka ochrony granicy państwowej Republiki
+                        Federalnej Niemiec
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.5.2</code>
+                <description>Stanowiska kierowania organów ochrony granicy
+                    państwowej państw sąsiednich
+                </description>
+
+                <symbol>
+                    <code>4.5.2.001</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Federacji Rosyjskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.2.002</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Republiki Litwy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.2.003</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Republiki Bialorusi
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.2.004</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Republiki Ukrainy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.2.005</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Republiki Slowackiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.2.006</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Republiki Czeskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.2.007</code>
+                    <description>Stanowisko kierowania organu ochrony granicy
+                        państwa sąsiedniego - Republiki Federalnej Niemiec
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.5.3</code>
+                <description>Punkty kontaktowe służb granicznych</description>
+
+                <symbol>
+                    <code>4.5.3.001</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sasiedniego - znak ogólny
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.002</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Federacji Rosyjskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.003</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Republiki Litwy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.004</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Republiki Białorusi
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.005</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Republiki Ukrainy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.006</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Republiki Słowacji
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.007</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Republiki Czeskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.3.008</code>
+                    <description>Punkt kontaktowy
+                        (konsultacyjny/koordynacyjny/przekazania osób) z organami
+                        ochrony granicy państwa sąsiedniego - Republiki Federalnej
+                        Niemiec
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.5.4</code>
+                <description>Siedziby organów ochrony granicy państwowej państw
+                    sąsiednich
+                </description>
+
+                <symbol>
+                    <code>4.5.4.001</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sąsiedniego - Federacji Rosyjskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.4.002</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sąsiedniego - Republiki Litwy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.4.003</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sasiedniego - Republiki Białorusi
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.4.004</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sąsiedniego - Republiki Ukrainy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.4.005</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sąsiedniego - Republiki Słowackiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.4.006</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sąsiedniego - Republiki Czeskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.4.007</code>
+                    <description>Siedziba organu ochrony granicy państwa
+                        sąsiedniego - Republiki Federalnej Niemiec
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.5.5</code>
+                <description>Inne obiekty (miejsca zatrzymania, ambulatorium
+                    itp.)
+                </description>
+
+                <symbol>
+                    <code>4.5.5.001</code>
+                    <description>Ośrodek dla cudzoziemców lub ubiegających się o
+                        status uchodźcy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.002</code>
+                    <description>Ośrodek strzeżony dla cudzoziemców</description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.003</code>
+                    <description>Areszt w celu wydalenia</description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.004</code>
+                    <description>Pomieszczenie dla osób zatrzymanych</description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.005</code>
+                    <description>Pomieszczenie aresztu śledczego</description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.006</code>
+                    <description>Pomieszczenie zakladu karnego</description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.007</code>
+                    <description>Ambulatorium Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.008</code>
+                    <description>Siedziba Wydziału Zabezpieczenia Działań Zarządu
+                        Zabezpieczenia Działań Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.009</code>
+                    <description>Siedziba Zamiejscowego Wydzialu Lotniczego Biura
+                        Lotnictwa Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.5.5.010</code>
+                    <description>Siedziba Wydziału Zamiejscowego Zarządu Spraw
+                        Wewnętrznych Straży Granicznej
+                    </description>
+                </symbol>
+
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.6</code>
+            <description>Elementy taktyczne</description>
+
+            <symbol>
+                <code>4.6.1</code>
+                <description>Zadania statków powietrznych Straży Granicznej
+                </description>
+
+                <symbol>
+                    <code>4.6.1.001</code>
+                    <description>Miejsce wysadzenia ze śmigłowca osób, które wbrew
+                        przepisom przekroczyły granice państwa - opis z podaniem
+                        liczby osób/czasu
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.002_1</code>
+                    <description>Śmigłowiec Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.002</code>
+                    <description>Strefa (rejon) dyżurowania w powietrzu (wzmożonego
+                        rozpoznania) z użyciem smigłowca Straży Granicznej (opis z
+                        podaniem liczby, typu statków powietrznych, wysokości/czasu)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.003</code>
+                    <description>Odcinek dyżurowania w powietrzu (wzmożonego
+                        rozpoznania) z użyciem samolotu Straży Granicznej (opis z
+                        podaniem liczby, typu statków powietrznych, wysokości/czasu)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.003_1</code>
+                    <description>Samolot Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.004</code>
+                    <description>Strefa (rejon) dyżurowania w powietrzu (wzmożonego
+                        rozpoznania) z użyciem samolotu Straży Granicznej (opis z
+                        podaniem liczby, typu statków powietrznych, wysokości/czasu)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.005_1</code>
+                    <description>Śmigłowiec Straży Granicznej z kamerą termowizyjną
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.005</code>
+                    <description>Rozpoznanie powietrzne z użyciem kamery
+                        termowizyjnej (opis z podaniem liczby , typu statkow
+                        powietrznych, wysokosci/czasu
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.006_1</code>
+                    <description>Śmigłowiec Straży Granicznej z noktowizorem
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.006</code>
+                    <description>Rozpoznanie powietrzne z użyciem noktowizora (opis
+                        z podaniem liczby , typu statków powietrznych,
+                        wysokości/czasu)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.007</code>
+                    <description>Rozpoznanie powietrzne z jednoczesnym
+                        naprowadzaniem na rozpoznany obiekt - z użyciem kamery
+                        termowizyjnej (opis z podaniem liczby , typu statkow
+                        powietrznych, wysokości/czasu
+                    </description>
+                    <additionalSymbols>
+                        <symbol>
+                            <code>4.6.1.005_1</code>
+                        </symbol>
+                        <symbol>
+                            <code>
+                                4.8.014|4.8.015|4.8.016|4.8.017|4.8.018|4.8.019|4.8.024|4.8.046|4.8.047|4.8.060|4.8.062
+                            </code>
+                        </symbol>
+                    </additionalSymbols>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.008</code>
+                    <description>Rozpoznanie powietrzne z jednoczesnym
+                        naprowadzaniem na rozpoznany obiekt - z użyciem noktywizatora
+                        (opis z podaniem liczby , typu statków powietrznych,
+                        wysokosci/czasu)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.009</code>
+                    <description>Rozpoznanie powietrzne z jednoczesnym
+                        naprowadzaniem na rozpoznany obiekt - z użyciem radaru (opis z
+                        podaniem liczby , typu statkow powietrznych, wysokości/czasu
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.6.1.009_1</code>
+                    <description>Śmigłowiec Straży Granicznej z radarem
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.6.2</code>
+                <description>Zadania jednostek pływających Straży Granicznej
+                </description>
+
+                <symbol>
+                    <code>4.6.2.007</code>
+                    <description>Linia dozoru</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.008</code>
+                    <description>Linia namiaru</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.009</code>
+                    <description>Rubież rozpoznania - opis z podaniem liczby, typów
+                        statków/czasu
+                    </description>
+                    <width>5</width>
+                    <lineType>TRAINGULAR_PATTERN</lineType>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.010</code>
+                    <description>Rubież sledzenia - opis z podaniem liczby, typów
+                        statków/czasu
+                    </description>
+                    <lineType>MIXED_PATTERN</lineType>
+                    <width>5</width>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.011</code>
+                    <description>Rubież wyjscia - opis z podaniem liczby, typów
+                        statków/czasu
+                    </description>
+                    <width>5</width>
+                    <lineType>RECTANGULAR_PATTERN</lineType>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.012</code>
+                    <description>Obszar zabroniony na morzu</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.013</code>
+                    <description>Obszar kotwicowiska na morzu</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.013_1</code>
+                    <description>Kotwica</description>
+                </symbol>
+                <symbol>
+                    <code>4.6.2.014</code>
+                    <description>Plawa</description>
+                </symbol>
+
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.7</code>
+            <description>Działania Straży Granicznej w terenie</description>
+
+            <symbol>
+                <code>4.7.1</code>
+                <description>Siły i środki Straży Granicznej w działaniach
+                </description>
+
+                <symbol>
+                    <code>4.7.1.001_1</code>
+                    <description>Grupa zadaniowa</description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.001_2</code>
+                    <description>Funkcjonariusz Straży Granicznej (bez obramowania)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.001</code>
+                    <description>Funkcjonariusz Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.002</code>
+                    <description>Funkcjonariusz Straży Granicznej z psem służbowym
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.003</code>
+                    <description>Funkcjonariusz Straży Granicznej na koniu
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.004</code>
+                    <additionalCode>4.7.1.003</additionalCode>
+                    <description>Patrol konny Straży granicznej ze wskazaniem trasy
+                        przemieszczania się patrolu w prawo
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.004b</code>
+                    <additionalCode>4.7.1.003</additionalCode>
+                    <description>Patrol konny Straży granicznej ze wskazaniem trasy
+                        przemieszczania się patrolu w lewo
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.004c</code>
+                    <additionalCode>4.7.1.003</additionalCode>
+                    <description>Patrol konny Straży granicznej ze wskazaniem trasy
+                        przemieszczania się patrolu (3 punkty)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.005</code>
+                    <description>Negocjator Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.006</code>
+                    <description>Patrol pieszy Straży Granicznej zabezpieczający
+                        nakazany rejon
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.006_1</code>
+                    <description>Funkcjonariusz Straży Granicznej - pieszy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.007</code>
+                    <description>Patrol zmotoryzowany Straży Granicznej
+                        zabezpieczający nakazany rejon
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.007_1</code>
+                    <description>Funkcjonariusz Straży Granicznej zmotoryzowany
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.008</code>
+                    <description>Trasa patrolowania przez patrol pieszy Straży
+                        Granicznej w prawo
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.008b</code>
+                    <description>Trasa patrolowania przez patrol pieszy Straży
+                        Granicznej w lewo
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.008c</code>
+                    <description>Trasa patrolowania przez patrol pieszy Straży
+                        Granicznej (3 punkty)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.009</code>
+                    <description>Trasa patrolowania przez patrol zmotoryzowany
+                        Straży Granicznej w prawo
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.009b</code>
+                    <description>Trasa patrolowania przez patrol zmotoryzowany
+                        Straży Granicznej w lewo
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.009c</code>
+                    <description>Trasa patrolowania przez patrol zmotoryzowany
+                        Straży Granicznej (3 punkty)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.009_1</code>
+                    <description>Funkcjonariusz Straży Granicznej zmotoryzowany
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.010</code>
+                    <description>Patrol pieszy Straży Granicznej z psem służbowym
+                        ze wskazaniem trasy przemieszczania się patrolu w prawo
+                    </description>
+                    <splitedSequence>4.7.1.001,4.7.1.010</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.010b</code>
+                    <description>Patrol pieszy Straży Granicznej z psem służbowym
+                        ze wskazaniem trasy przemieszczania się patrolu w lewo
+                    </description>
+                    <splitedSequence>4.7.1.001,4.7.1.010</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.010c</code>
+                    <description>Patrol pieszy Straży Granicznej z psem służbowym
+                        ze wskazaniem trasy przemieszczania się patrolu (3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.001,4.7.1.010c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.011</code>
+                    <description>Trasa patrolowania przez patrol konny Straży
+                        Granicznej w prawo
+                    </description>
+                    <splitedSequence>4.7.1.003,4.7.1.011</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.011b</code>
+                    <description>Trasa patrolowania przez patrol konny Straży
+                        Granicznej w lewo
+                    </description>
+                    <splitedSequence>4.7.1.003,4.7.1.011</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.011c</code>
+                    <description>Trasa patrolowania przez patrol konny Straży
+                        Granicznej (3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.003,4.7.1.011c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.012_1</code>
+                    <description>Straż Graniczna i inna służba współpracująca -
+                        należy określić właściwym skrótem) - pieszy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.012</code>
+                    <description>Trasa patrolowana przez wspólny patrol pieszy
+                        Straży Granicznej i innej służby współdziałającej (należy
+                        określić właściwym skrótem) w prawo
+                    </description>
+                    <splitedSequence>4.7.1.012_1,4.7.1.011</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.012b</code>
+                    <description>Trasa patrolowana przez wspólny patrol pieszy
+                        Straży Granicznej i innej służby współdziałającej (należy
+                        określić właściwym skrótem) w lewo
+                    </description>
+                    <splitedSequence>4.7.1.012_1,4.7.1.011</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.012c</code>
+                    <description>Trasa patrolowana przez wspólny patrol pieszy
+                        Straży Granicznej i innej służby współdziałającej (należy
+                        określić właściwym skrótem) (3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.012_1,4.7.1.011</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.013_1</code>
+                    <description>Straż Graniczna i inna służba współpracująca -
+                        należy określić właściwym skrótem)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.013</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i innej służby
+                        współdziałającej (należy określić właściwym skrótem) w prawo
+                    </description>
+                    <splitedSequence>4.7.1.013_1,4.7.1.013</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.013b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i innej służby
+                        współdziałającej (należy określić właściwym skrótem) w lewo
+                    </description>
+                    <splitedSequence>4.7.1.013_1,4.7.1.013</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.013c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i innej służby
+                        współdziałającej (należy określić właściwym skrótem) (3
+                        punkty)
+                    </description>
+                    <splitedSequence>4.7.1.013_1,4.7.1.013c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.014_1</code>
+                    <description>Straż Graniczna i przedstawiciel organu ochrony
+                        granicy państwowej państwa sąsiedniego - Federacji Rosyjskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.014</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Federacji
+                        Rosyjskiej w prawo
+                    </description>
+                    <splitedSequence>4.7.1.014_1,4.7.1.014</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.014b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Federacji
+                        Rosyjskiej w lewo
+                    </description>
+                    <splitedSequence>4.7.1.014_1,4.7.1.014</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.014c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Federacji
+                        Rosyjskiej (3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.014_1,4.7.1.014c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.015_1</code>
+                    <description>Straż Graniczna i przedstawiciel organu ochrony
+                        granicy państwowej państwa sąsiedniego - Republiki Litwy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.015a</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Litwy (w prawo)
+                    </description>
+                    <splitedSequence>4.7.1.015_1,4.7.1.015</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.015b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Litwy (w lewo)
+                    </description>
+                    <splitedSequence>4.7.1.015_1,4.7.1.015b</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.015c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Litwy (w prawo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.015_1,4.7.1.015</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.015d</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Litwy (w lewo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.015_1,4.7.1.015</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.016_1</code>
+                    <description>Straż Graniczna i przedstawiciela organu ochrony
+                        granicy państwowej państwa sąsiedniego - Republiki Białorusi
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.016a</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Białorusi (w prawo)
+                    </description>
+                    <splitedSequence>4.7.1.016_1,4.7.1.016</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.016b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Białorusi (w lewo)
+                    </description>
+                    <splitedSequence>4.7.1.016_1,4.7.1.016b</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.016c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Białorusi (w prawo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.016_1,4.7.1.016c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.016d</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Białorusi (w lewo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.016_1,4.7.1.016c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.017_1</code>
+                    <description>Straż Graniczna i przedstawiciela organu ochrony
+                        granicy państwowej państwa sąsiedniego - Republiki Ukrainy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.017a</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Ukrainy (w prawo)
+                    </description>
+                    <splitedSequence>4.7.1.017_1,4.7.1.017</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.017b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Ukrainy (w lewo)
+                    </description>
+                    <splitedSequence>4.7.1.017_1,4.7.1.017b</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.017c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Ukrainy (w prawo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.017_1,4.7.1.017c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.017d</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Ukrainy (w lewo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.017_1,4.7.1.017c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.018_1</code>
+                    <description>Straż Graniczna i przedstawiciela organu ochrony
+                        granicy państwowej państwa sąsiedniego - Republiki Słowacji
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.018a</code>
+                    <invisible>true</invisible>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej panstwa sąsiedniego - Republiki
+                        Słowacji (w prawo)
+                    </description>
+                    <splitedSequence>4.7.1.018_1,4.7.1.018</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.018</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej panstwa sąsiedniego - Republiki
+                        Słowacji (w lewo)
+                    </description>
+                    <splitedSequence>4.7.1.018_1,4.7.1.018b</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.018c</code>
+                    <invisible>true</invisible>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej panstwa sąsiedniego - Republiki
+                        Słowacji (w prawo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.018_1,4.7.1.018</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.018d</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej panstwa sąsiedniego - Republiki
+                        Słowacji (w lewo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.018_1,4.7.1.018</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.019_1</code>
+                    <description>Straż Graniczna i przedstawiciela organu ochrony
+                        granicy państwowej państwa sąsiedniego - Republiki Czeskiej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.019a</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Czeskiej (w prawo)
+                    </description>
+                    <splitedSequence>4.7.1.019_1,4.7.1.019</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.019b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Czeskiej (w lewo)
+                    </description>
+                    <splitedSequence>4.7.1.019_1,4.7.1.019b</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.019c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Czeskiej (w prawo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.019_1,4.7.1.019</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.019d</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - Republiki
+                        Czeskiej (w lewo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.019_1,4.7.1.019</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.020_1</code>
+                    <description>Straż Graniczna i przedstawiciela organu ochrony
+                        granicy państwowej państwa sąsiedniego - republiki Federalnej
+                        Niemiec
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.020a</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - republiki
+                        Federalnej Niemiec (w prawo)
+                    </description>
+                    <splitedSequence>4.7.1.020_1,4.7.1.020</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.020b</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - republiki
+                        Federalnej Niemiec (w lewo)
+                    </description>
+                    <splitedSequence>4.7.1.020_1,4.7.1.020b</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.020c</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - republiki
+                        Federalnej Niemiec (w prawo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.020_1,4.7.1.020c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.020d</code>
+                    <description>Trasa patrolowana przez wspólny patrol
+                        zmotoryzowany Straży Granicznej i przedstawiciela organu
+                        ochrony granicy państwowej państwa sąsiedniego - republiki
+                        Federalnej Niemiec (w lewo, 3 punkty)
+                    </description>
+                    <splitedSequence>4.7.1.020_1,4.7.1.020c</splitedSequence>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.021</code>
+                    <description>Konwój pieszy Straży Granicznej - znak ogólny
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.022a</code>
+                    <description>Konwój pieszy Straży Granicznej ze wskazaniem
+                        trasy przemieszczenia się konwoju - opis z podaniem nazwy
+                        jednostki organizacyjnej i liczby funkcjonariuszy/liczba osób
+                        konwojowanych (w prawo)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.022b</code>
+                    <description>Konwój pieszy Straży Granicznej ze wskazaniem
+                        trasy przemieszczenia się konwoju - opis z podaniem nazwy
+                        jednostki organizacyjnej i liczby funkcjonariuszy/liczba osób
+                        konwojowanych (w lewo)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.023_1</code>
+                    <description>Konwój pieszy Straży Granicznej pojazdem
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.023</code>
+                    <description>Konwój Straży Granicznej wykonywany pojazdem ze
+                        wskazaniem trasy przemieszczania się konwoju - opis z podaniem
+                        nazwy jednostki organizacyjnej i liczby funkcjonariuszy/liczba
+                        osób konwojowanych
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.023b</code>
+                    <description>Konwój Straży Granicznej wykonywany pojazdem ze
+                        wskazaniem trasy przemieszczania się konwoju - opis z podaniem
+                        nazwy jednostki organizacyjnej i liczby funkcjonariuszy/liczba
+                        osób konwojowanych
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.024a</code>
+                    <description>Zasadzka zorganizowana przez siły Straży
+                        Granicznej - opis z podaniem liczby funkcjonariuszy/czasu
+                        działania
+                    </description>
+                    <dashed>false</dashed>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.024b</code>
+                    <description>Zasadzka zorganizowana przez siły Straży
+                        Granicznej - opis z podaniem liczby funkcjonariuszy/czasu
+                        działania
+                    </description>
+                    <dashed>false</dashed>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.025a</code>
+                    <description>Planowana zasadzka zorganizowana przez siły Straży
+                        Granicznej - opis z podaniem liczby funkcjonariuszy/czasu
+                        działania
+                    </description>
+                    <dashed>true</dashed>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.025b</code>
+                    <description>Planowana zasadzka zorganizowana przez siły Straży
+                        Granicznej - opis z podaniem liczby funkcjonariuszy/czasu
+                        działania
+                    </description>
+                    <dashed>true</dashed>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.026</code>
+                    <description>Obserwacja Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.027</code>
+                    <description>Przeszukanie terenu z użyciem psa slużbowego -
+                        opis z podaniem liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.028</code>
+                    <description>Pościg czołowy z użyciem psa służbowego Straży
+                        Granicznej za sprawcą przestępstwa lub wykroczenia - opis z
+                        podaniem liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.029</code>
+                    <description>Pościg równoległy z użyciem psa służbowego Straży
+                        Granicznej za sprawcą przestępstwa lub wykroczenia - opis z
+                        podaniem liczby funkcjonariuszy/czasu działania
+                    </description>
+                    <additionalCode>4.7.1.001</additionalCode>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.030</code>
+                    <description>Pościg mieszany z użyciem psa służbowego Straży
+                        Granicznej za sprawcą przestępstwa lub wykroczenia - opis z
+                        podaniem liczby funkcjonariuszy/czasu działania - tylko znak
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.034</code>
+                    <description>Odcinek granicy o największym nasileniu służby
+                        granicznej
+                    </description>
+                    <borderGraphic>true</borderGraphic>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.034a</code>
+                    <description>Odcinek granicy o największym nasileniu służby
+                        granicznej
+                    </description>
+                    <borderGraphic>false</borderGraphic>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.035</code>
+                    <description>Posterunek obserwacji przestrzeni powietrznej
+                        Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.036</code>
+                    <description>Posterunek obserwacyjny (PO) Zautomatyzowanego
+                        Systemu Radarowego Nadzoru (ZSRN) polskich obszarów morskich
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.037</code>
+                    <description>Posterunek kontroli drogowej organizowanej przez
+                        Straż Graniczną - w opisie z podaniem liczby
+                        funkcjonariuszy/czasu dzialania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.038</code>
+                    <description>Posterunek kontroli drogowej organizowanej przez
+                        Straz Graniczną i Policję - w opisie z podaniem liczby
+                        funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.039</code>
+                    <description>Posterunek kontroli drogowej organizowanej przez
+                        Straż Graniczną i służby współdziałąjace - w opisie z podaniem
+                        liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.040</code>
+                    <description>Stanowisko strzelca wyborowego</description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.041</code>
+                    <description>Kolczatka drogowa</description>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.042</code>
+                    <description>Sektor ognia</description>
+                    <simple>true</simple>
+                </symbol>
+                <symbol>
+                    <code>4.7.1.043</code>
+                    <description>Pas ognia</description>
+                    <simple>false</simple>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.7.2</code>
+                <description>Rubieże, rejony, kierunki, linie rozgraniczenia
+                </description>
+
+                <symbol>
+                    <code>4.7.2.001</code>
+                    <description>Kordon pojedyńczy</description>
+                    <single>true</single>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.002</code>
+                    <description>Kordon podwójny</description>
+                    <single>false</single>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.003</code>
+                    <description>Rubież zajmowana przez określone siły -
+                    </description>
+                    <sideBig>true</sideBig>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.004</code>
+                    <description>Zatrzymanie rozwiniętych sił na okreslonej rubieży
+                        - wielkość i charakter sił przedstawiany przy użyciu
+                        odpowiednich modyfikatorów
+                    </description>
+                    <sideBig>true</sideBig>
+                    <stop>true</stop>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.005</code>
+                    <description>Wycofane sił z zajmowanej rubieży</description>
+                    <sideBig>true</sideBig>
+                    <retreat>true</retreat>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.006</code>
+                    <description>Rubież wyjściowa określonych sił - wielkość i
+                        charakter sił przedstawiany przy użyciu odpowiednich
+                        modyfikatorów
+                    </description>
+                    <sideBig>true</sideBig>
+                    <dashed>true</dashed>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.007</code>
+                    <description>Rubież spieszenia pododziału</description>
+                    <sideBig>true</sideBig>
+                    <dashed>true</dashed>
+                    <additionalLines>true</additionalLines>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.008</code>
+                    <description>Rubież rozwinięcia, wyrównania pododziałów
+                    </description>
+                    <dashed>true</dashed>
+                    <sideSmall>true</sideSmall>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.009_1</code>
+                    <description>Położenie sił obecne</description>
+                    <lineWidth>3</lineWidth>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.009_2</code>
+                    <description>Położenie sił planowane 1</description>
+                    <lineWidth>3</lineWidth>
+                    <dashArray>2.0 4.0</dashArray>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.009_3</code>
+                    <description>Położenie sił planowane 3</description>
+                    <lineWidth>3</lineWidth>
+                    <dashArray>11.0 4.0 2.0 4.0</dashArray>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.010</code>
+                    <description>Rejon zajety przez pododział odwwodowy Straży
+                        Granicznej
+                    </description>
+                    <lineWidth>3</lineWidth>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.011</code>
+                    <description>Rejon planowany do zajęcia przez pododział
+                        odwodowy Straży Granicznej
+                    </description>
+                    <planned>true</planned>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.012</code>
+                    <description>Rejon zastrzeżony</description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.013a</code>
+                    <description>Przeszukanie obiektów przez pododdział odwodowy
+                        Straży Granicznej - opis z podaniem liczby
+                        funkcjonariuszy/czasu działania (tekst)
+                    </description>
+                    <hasCenterArrow>false</hasCenterArrow>
+                    <pointsType>CIRCLE_WITH_OPEN_BOTTOM</pointsType>
+                    <hasText>true</hasText>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.013b</code>
+                    <description>Przeszukanie obiektów przez pododdział odwodowy
+                        Straży Granicznej - opis z podaniem liczby
+                        funkcjonariuszy/czasu działania (tekst, 4pkt)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.014a</code>
+                    <description>Przeszukiwanie terenu lub prowadzenie rozpoznania
+                        przez pododział odwodowy Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania (znak punktowy)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.014</code>
+                    <description>Przeszukiwanie terenu lub prowadzenie rozpoznania
+                        przez pododział odwodowy Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania (napis)
+                    </description>
+                    <objectName>SGpo</objectName>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.014c</code>
+                    <invisible>true</invisible>
+                    <description>Przeszukiwanie terenu lub prowadzenie rozpoznania
+                        przez pododział odwodowy Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.014d</code>
+                    <invisible>true</invisible>
+                    <description>Przeszukiwanie terenu lub prowadzenie rozpoznania
+                        przez pododział odwodowy Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania (znak punktowy, 4
+                        punkty)
+                    </description>
+                </symbol>
+                <symbol>
+                    <invisible>true</invisible>
+                    <code>4.7.2.014e</code>
+                    <description>Przeszukiwanie terenu lub prowadzenie rozpoznania
+                        przez pododział odwodowy Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania (napis, 4 punkty)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.014f</code>
+                    <description>Przeszukiwanie terenu lub prowadzenie rozpoznania
+                        przez pododział odwodowy Straży Granicznej - opis z podaniem
+                        liczby funkcjonariuszy/czasu działania (4 punkty)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.015</code>
+                    <description>Rejon nakazany do przeszukania ze wskazaniem
+                        kierunku marszu - opis z podaniem liczby funkcjonariuszy/czasu
+                        działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.016</code>
+                    <description>Prowadzenie rozpoznania okreslonego rejonu - opis
+                        z podaniem liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.017</code>
+                    <description>Rubież zapory (blokady) - znak ogólny
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.017a</code>
+                    <description>Rozstawienie posterunku kontroli drogowej
+                        organizowanej przez Straż Graniczną- w opisie z podaniem
+                        liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.017b</code>
+                    <description>Planowane rozstawienie posterunku kontroli
+                        drogowej organizowanej przez Straż Graniczną- w opisie z
+                        podaniem liczby funkcjonariuszy/czasu działania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.018a</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z jednego kierunku - opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.018b</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z jednego kierunku - opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania (4 pkt)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.018c</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z jednego kierunku - opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania (odwrócony)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.018d</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z jednego kierunku - opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania (odwrócony, 4 pkt)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.019a</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z dwóch kierunków – opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.019b</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z dwóch kierunków – opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania (4 pkt)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.019c</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z dwóch kierunków – opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania (odwrócony)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.019d</code>
+                    <description>Zatrzymanie przestępcy (poszukiwanego) w kryjówce,
+                        po podejściu z dwóch kierunków – opis z podaniem liczby
+                        zatrzymanych przestępców/czasu zatrzymania (odwrócony, 4pkt)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.026</code>
+                    <description>Słup granicy państwowej</description>
+                    <overrideDefaultColor>false</overrideDefaultColor>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.027</code>
+                    <description>Tablica informacyjna GRANICA PAŃSTWA PRZEKRACZANIE
+                        ZABRONIONE - w opisie numer inwentarzowy podajemy obok
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.028</code>
+                    <description>Tablica informacyjna PAS DROGI GRANICZNEJ -
+                        PRZEKRACZANIE ZABRONIONE - w opisie podajemy numer
+                        inwentarzowy
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.7.2.029</code>
+                    <description>Tablica informacyjna STREFA NADGRANICZNA - w
+                        opisie numer inwentarzowy podajemy obok
+                    </description>
+                </symbol>
+
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.8</code>
+            <description>Zdarzenia i działania przeciwnika (sprawcy
+                przestępstwa lub wykroczenia)
+            </description>
+
+            <symbol>
+                <code>4.8.010</code>
+                <description>Miejsce zatrzymania osoby(ob) podejrzanej - opis z
+                    podaniem liczby zatrzymanych osób/czasu zatrzymania
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.013</code>
+                <description>Miejsce zatrzymania osoby(ob), która dokonała
+                    przestępstwa - opis z podaniem liczby zatrzymanych osób/czasu
+                    zatrzymania
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.014</code>
+                <description>Przestępca uzbrojony w broń palną</description>
+            </symbol>
+            <symbol>
+                <code>4.8.015</code>
+                <description>Przestępca wyposażony w niebezpieczne narzędzie
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.016</code>
+                <description>Przestępca wyposażony w ladunek wybuchowy
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.017</code>
+                <description>Terrorysta</description>
+            </symbol>
+            <symbol>
+                <code>4.8.018</code>
+                <description>Przestępca(y) i zaznaczony kierunek przemieszczania
+                    się - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.019</code>
+                <description>Przęstepca w samochodzie osobowym</description>
+            </symbol>
+            <symbol>
+                <code>4.8.020</code>
+                <description>Miejsce zatrucia osób</description>
+            </symbol>
+            <symbol>
+                <code>4.8.021</code>
+                <description>Miejsce zatrucia zwierząt</description>
+            </symbol>
+            <symbol>
+                <code>4.8.022</code>
+                <description>Miejsce wykrycia środka trującego</description>
+            </symbol>
+            <symbol>
+                <code>4.8.023</code>
+                <description>Zasadzka zorganizowana przez przestepców
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.024</code>
+                <description>Przestępcy(ow) w samochodzie typu furgon z
+                    zaznaczonym kierunkiem przemieszczania się - opis z podaniem
+                    liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.025</code>
+                <description>Ustalone miejsce przebywania przestępcy(ów) - opis
+                    opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.026</code>
+                <description>Ustalone miejsce przebywania przestępcy(ów), która
+                    pomaga(ją) w przestępstwie lub wykroczeniu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.027</code>
+                <description>Miejsce znalezienia przedmiotów ukrytych,
+                    porzuconych bądź zagubionych przez sprawcę przestępstwa lub
+                    wykroczenia - opis z podaniem nazwy przedmiotu/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.028</code>
+                <description>Miejsce wysadzenia ze śmigłowca osób, które wbrew
+                    przepisom przekroczyły granice państwa - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.029</code>
+                <description>Miejsce wysadzenia z samolotu osób, które wbrew
+                    przepisom przekroczyły granice państwa - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.030</code>
+                <description>Miejsce kradzieży - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.031</code>
+                <description>Miejsce włamania - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.032</code>
+                <description>Miejsce rozboju - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.033</code>
+                <description>Miejsce zabójstwa - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.034</code>
+                <description>Kryjówka przestępcy (osoby(ob) poszukiwanej)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.035</code>
+                <description>Miejsce dokonania napadu, zamachu z użyciem broni
+                    palnej lub aktu terroru - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.036</code>
+                <description>Mina pułapka ustawiona w wyniku dzialań
+                    przestępczych
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.037</code>
+                <description>Miejsce porwania pojazdu - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.038</code>
+                <description>Miejsce porwania samolotu - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.039</code>
+                <description>Miejsce porwania łodzi - opis z podaniem liczby
+                    osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.040</code>
+                <description>Miejsce porwania osoby(ób) (kidnaping) - opis z
+                    podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.041</code>
+                <description>Kryjówka punkt kontaktowy) przestępcy(ów)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.042</code>
+                <description>Kryjowka broni przestepców</description>
+            </symbol>
+            <symbol>
+                <code>4.8.043</code>
+                <description>Skrytka amunicji przestepców</description>
+            </symbol>
+            <symbol>
+                <code>4.8.044</code>
+                <description>Miejsce ukrycia narkotyków - w opisie rodzaj i ilość
+                    kg/czas
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.045</code>
+                <description>Miejsce wandalizmu, gwałtu, plądrowania, rabowania,
+                    grabieźy, łupienia - opis z podaniem nazwy przedmiotu/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.046</code>
+                <description>Grupa dywersyjno-rozpoznawcza</description>
+            </symbol>
+            <symbol>
+                <code>4.8.047</code>
+                <description>Grupa wojsk specjalnych przeciwnika</description>
+            </symbol>
+            <symbol>
+                <code>4.8.050</code>
+                <description>Kryjówka (baza) grupy wojsk specjalnych przeciwnika
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.054</code>
+                <description>Miejsce przebywania grupy podejrzanych uchodźców
+                    (cudzoziemców) - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.058</code>
+                <description>Zakładnik</description>
+            </symbol>
+            <symbol>
+                <code>4.8.059</code>
+                <description>Miejsce zatrzymania osoby(ób), ktora dokonała
+                    przestępstwa - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.060</code>
+                <description>Ranny przestępca(y) w wyniku działania sił
+                    porządkowych - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.061</code>
+                <description>Zabity przestępca(y) w wyniku działania sił
+                    porządkowych - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.062</code>
+                <description>Ranny przestępca(y) w wyniku porachunków
+                    przestępczych - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.063</code>
+                <description>Zabity przestępca(y) w wyniku porachunków
+                    przestępczych - opis z podaniem liczby osób/czasu
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.065</code>
+                <description>Pożar jednopunktowy (ognisko pożaru)</description>
+            </symbol>
+            <symbol>
+                <code>4.8.066</code>
+                <description>Pożar wielopunktowy (blokowy)</description>
+            </symbol>
+            <symbol>
+                <code>4.8.067</code>
+                <description>Pożar z kierunkiem rozprzestrzeniania się
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.068</code>
+                <description>Pożar przestrzenny</description>
+            </symbol>
+            <symbol>
+                <code>4.8.069</code>
+                <description>Pożar z wydzielaniem się środkow trujących
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.070</code>
+                <description>Miejsce powstania emisji substancji/materiałów
+                    niebezpiecznych lub wybuchowych
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.071_2</code>
+                <description>Zbiegowisko - grupy narodowe z państw nie bioracych
+                    udziału w konflikcie zbrojnym (neutralne)
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.8.071_3</code>
+                <description>Zbiegowisko - obojętne</description>
+            </symbol>
+            <symbol>
+                <code>4.8.073_1</code>
+                <description>Opanowany obiekt</description>
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.9</code>
+            <description>Uzbrojenie, sprzęt i wyposażenie</description>
+
+            <symbol>
+                <code>4.9.1</code>
+                <description>Uzbrojenie i sprzęt specjalistyczny1</description>
+
+                <symbol>
+                    <code>4.9.1.001</code>
+                    <description>Pistolet</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.002</code>
+                    <description>Pistolet maszynowy</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.003</code>
+                    <description>Karabin</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.004</code>
+                    <description>Karabin strzelca wyborowego</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.005</code>
+                    <description>Karabin automatyczny</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.006</code>
+                    <description>Lekki karabin maszynowy</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.007</code>
+                    <description>Cieżki karabin maszynowy</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.008</code>
+                    <description>Robot pirotechniczny</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.009</code>
+                    <description>Punkt pirotechniczny</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.010</code>
+                    <description>Bramka radiometryczna</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.011</code>
+                    <description>Stacjonarny wykrywacz metali</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.1.012</code>
+                    <description>Urządzenie do prześwietlania bagażu</description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.9.2</code>
+                <description>Sprzęt lotniczy</description>
+
+                <symbol>
+                    <code>4.9.2.001</code>
+                    <description>Samolot Straży Granicznej (znak ogólny)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.002</code>
+                    <description>Śmigłowiec Straży Granicznej (znak ogólny)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.003</code>
+                    <description>Śmigłowiec rozpoznania termowizyjnego Straży
+                        Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.004</code>
+                    <description>Śmigłowiec rozpoznania naktowizyjnego Straży
+                        Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.005</code>
+                    <description>Samolot rozpoznania radarowego Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.006</code>
+                    <description>Samolot rozpoznania IR/UV
+                        (podczerwień/ultrafiolet) Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.007</code>
+                    <description>Wojskowe lądowisko śmigłowców</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.008</code>
+                    <description>Lotnisko wojskowe</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.009</code>
+                    <description>Lądowisko śmigłowców Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.010</code>
+                    <description>Lotnisko zorganizowane siłami Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.011</code>
+                    <description>Dworzec lotniczy</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.012</code>
+                    <description>Lądowisko dla śmigłowcow cywilnych</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.013</code>
+                    <description>Lądowisko śmigłowcow wojskowych (wojskowych i
+                        cywilnych)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.014</code>
+                    <description>Lotnisko cywilne</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.015</code>
+                    <description>Lotnisko wojskowe (wojskowe i cywilne)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.016</code>
+                    <description>Śmigłowiec Morskiej Słuzby Poszukiwania i
+                        Ratownictwa (SAR)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.2.017</code>
+                    <description>Samolot Morskiej Służby Poszukiwania i Ratownictwa
+                        (SAR)
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.9.3</code>
+                <description>Sprzęt pływający</description>
+
+                <symbol>
+                    <code>4.9.3.001</code>
+                    <description>Jednostka plywająca Straży Granicznej (I
+                        kategorii)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.002</code>
+                    <description>Jednostka pływająca Straży Granicznej (II
+                        kategorii)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.003</code>
+                    <description>Jednostka pływająca Straży Granicznej (III
+                        kategorii)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.004</code>
+                    <description>Jednostka pływająca Straży Granicznej (III
+                        kategorii - typu ponton)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.005</code>
+                    <description>Jednostka pływająca Straży Granicznej (III
+                        kategorii - typu jacht)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.006</code>
+                    <description>Jednostka pływająca Straży Granicznej - typu
+                        poduszkowiec
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.007</code>
+                    <description>Łódź Straży Granicznej z napędem motorowym
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.008</code>
+                    <description>Cywilny statek handlowy</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.009</code>
+                    <description>Cywilny statek handlowy towarowy</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.010</code>
+                    <description>Cywilny statek typu RO-RO</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.011</code>
+                    <description>Cywilny statek tankowiec (zbiornikowiec)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.012</code>
+                    <description>Cywilny statek typu holownik</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.013</code>
+                    <description>Cywilny statek typu prom</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.014</code>
+                    <description>Cywilny statek pasażerski</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.015</code>
+                    <description>Statek handlowy do przewozu materiałów
+                        niebezpiecznych
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.016</code>
+                    <description>Handlowy statek holowany (barka)</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.017</code>
+                    <description>Statek rybacki</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.018</code>
+                    <description>Statek rybacki typu lugier</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.019</code>
+                    <description>Statek rybacki do połowu włokiem</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.020</code>
+                    <description>Statek rybacki typu trawler</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.021</code>
+                    <description>Cywilny statek rekreacyjny</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.022A</code>
+                    <description>Pomocnicza jednostka pływająca Marynarki Wojennej
+                        RP i sił sojuszniczych
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.022B</code>
+                    <description>Pomocnicza jednostka pływająca Marynarki Wojennej
+                        państwa neutralnego
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.022C</code>
+                    <description>Pomocnicza jednostka plywająca Marynarki Wojennej
+                        przeciwnika
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.023</code>
+                    <description>Statek służby celnej</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.024</code>
+                    <description>Statek Urzędu Morskiego</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.025</code>
+                    <description>Statek Okręgowego Inspektoratu Rybołóstwa
+                        Morskiego
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.026</code>
+                    <description>Statek Morskiej Służby Poszukiwania i Ratownictwa
+                        (SAR)
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.027</code>
+                    <description>Uderzeniowy okręt Marynarki Wojennej RP i wojsk
+                        sojuszniczych
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.028</code>
+                    <description>Uderzeniowy okręt Marynarki Wojennej państwa
+                        neutralnego
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.3.029</code>
+                    <description>Uderzeniowy okręt Marynarki Wojennej przeciwnika
+                    </description>
+                </symbol>
+
+            </symbol>
+            <symbol>
+                <code>4.9.4</code>
+                <description>Sprzęt transortu lądowego</description>
+
+                <symbol>
+                    <code>4.9.4.001</code>
+                    <description>Pojazd osobowy Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.002</code>
+                    <description>Pojazd osobowy - terenowy Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.003</code>
+                    <description>Pojazd cieżarowy Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.004</code>
+                    <description>Autobus</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.005</code>
+                    <description>Cysterna paliwowa Straży Granicznej - znak ogolny
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.006</code>
+                    <description>Ambulans sanitarny Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.007</code>
+                    <description>Motocykl lekki/skuter Straży Granicznej
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.008</code>
+                    <description>Motocykl średni Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.009</code>
+                    <description>Skuter śnieżny Straży Granicznej</description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.010</code>
+                    <description>Pojazd obserwacyjny Straży Granicznej wyposażony w
+                        noktowizor
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.011</code>
+                    <description>Pojazd obserwacyjny Straży Granicznej wyposażony w
+                        urządzenie termowizyjne
+                    </description>
+                </symbol>
+                <symbol>
+                    <code>4.9.4.012</code>
+                    <description>Pojazd obserwacyjny Straży Granicznej wyposażony w
+                        radar
+                    </description>
+                </symbol>
+
+            </symbol>
+
+        </symbol>
+        <symbol>
+            <code>4.10</code>
+            <description>Obiekty, sprzęt i urządzenia łączności i informatyki
+            </description>
+
+            <symbol>
+                <code>4.10.001</code>
+                <description>Umocniony stacjonarny węzeł łącznosci (usytuowany w
+                    obiekcie wzmocnionym pod względem inżynieryjnym, odpornym na
+                    działanie czynnikow zewnętrznych) - w opisie nazwa organu
+                    obsługiwanego
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.002</code>
+                <description>Nieumocniony stacjonarny wezeł łącznosci - w opisie
+                    nazwa organu obsługiwanego
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.003</code>
+                <description>Ruchomy wezeł łączności - w opisie nazwa organu
+                    obsługiwanego
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.004</code>
+                <description>Radiowe Centrum nadawcze - umocnione</description>
+            </symbol>
+            <symbol>
+                <code>4.10.005</code>
+                <description>Radiowe Centrum nadawcze - nieumocnione
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.006</code>
+                <description>Radiowe centrum nadawczo-odbiorcze w obiekcie
+                    umocnionym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.007</code>
+                <description>Radiowe centrum nadawczo-odbiorcze w obiekcie
+                    nieumocnionym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.008</code>
+                <description>Radiostacja krótkofalowa - stacjonarna</description>
+            </symbol>
+            <symbol>
+                <code>4.10.009</code>
+                <description>Radiostacja krótkofalowa - przewożona (zamontowana)
+                    na pojeździe kołowym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.010</code>
+                <description>Radiostacja krótkofalowa małej mocy</description>
+            </symbol>
+            <symbol>
+                <code>4.10.011</code>
+                <description>Radiostacja krótkofalowa średniej mocy</description>
+            </symbol>
+            <symbol>
+                <code>4.10.012</code>
+                <description>Radiostacja krótkofalowa dużej mocy</description>
+            </symbol>
+            <symbol>
+                <code>4.10.013</code>
+                <description>Radiotelefon stacjonarny</description>
+            </symbol>
+            <symbol>
+                <code>4.10.014</code>
+                <description>Radiotelefon przewożny na pojeżdzie kołowym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.015</code>
+                <description>Rejestrator rozmów</description>
+            </symbol>
+            <symbol>
+                <code>4.10.016</code>
+                <description>Radiotelefon przenośny</description>
+            </symbol>
+            <symbol>
+                <code>4.10.017</code>
+                <description>Stacja radioliniowa - znak ogólny</description>
+            </symbol>
+            <symbol>
+                <code>4.10.018</code>
+                <description>Stacja radioliniowa - stacjonarna</description>
+            </symbol>
+            <symbol>
+                <code>4.10.019</code>
+                <description>Stacja radioliniowa - na pojeździe kołowym
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.021</code>
+                <description>Radioprzemiennik</description>
+            </symbol>
+            <symbol>
+                <code>4.10.022</code>
+                <description>Urządzenie łączności telefonicznej utajnionej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.023</code>
+                <description>Urządzenie łączności telefonicznej szyfrowej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.028</code>
+                <description>Urządzenie łączności telekopiowej nieutajnionej
+                </description>
+            </symbol>
+            <symbol>
+                <code>4.10.031</code>
+                <description>Urządzenie transmisji danych utajnione</description>
+            </symbol>
+            <symbol>
+                <code>4.10.033</code>
+                <description>Urządzenie transmisji danych nieutajnione
+                </description>
+            </symbol>
+
+        </symbol>
+
+    </symbol>
+    <symbol>
+        <code>FIRE_GUARD</code>
+        <description>Znaki Straży Pożarnej</description>
+
+        <symbol>
+            <code>FIRE_GUARD_CAR</code>
+            <description>Samochód Straży Pożarnej</description>
+        </symbol>
+        <symbol>
+            <code>FIRE_GUARD_POST</code>
+            <description>Posterunek Straży Pożarnej</description>
+        </symbol>
+        <symbol>
+            <code>FIRE_GUARD_UNIT</code>
+            <description>Funkcjonariusz Straży Pożarnej</description>
+        </symbol>
+
+    </symbol>
+
+</symbol>
+	

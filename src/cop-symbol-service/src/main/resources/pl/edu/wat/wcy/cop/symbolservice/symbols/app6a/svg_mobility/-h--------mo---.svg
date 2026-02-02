@@ -1,0 +1,15 @@
+<!--Wskaznik mobilnosci sprzetu - pojazd kolowy terenowy plik "wms-pojazdyKolTerenowy_obcy.svg"-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" >
+<!--SVG content generated using Symbology Configuration Management System (SCMS)-->
+<!--Systematic Software Engineering Ltd. www.systematic.co.uk Copyright 2003 - do not remove-->
+
+<svg id="wms-pojazdyKolTerenowy_obcy-1" width="400px" height="400px" viewBox="0 0 400 400">
+<g >
+
+<line x1="27" y1="378" x2="373" y2="378" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:10"></line>
+<circle cx="40" cy="390" r="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:10"></circle>
+<circle cx="360" cy="390" r="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:10"></circle>
+<circle cx="195" cy="390" r="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:10"></circle>
+
+</g>
+</svg>

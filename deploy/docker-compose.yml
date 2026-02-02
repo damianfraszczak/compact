@@ -1,0 +1,8 @@
+services:
+  web:
+    build: .
+    ports:
+      - "50000:8080"
+    volumes:
+      - ./data:/root/h2
+      - ./dted:/root/dted

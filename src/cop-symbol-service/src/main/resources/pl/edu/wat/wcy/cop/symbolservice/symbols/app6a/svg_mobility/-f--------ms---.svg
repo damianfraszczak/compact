@@ -1,0 +1,14 @@
+<!--Wskaznik mobilnosci sprzetu - pojazdy holowane plik "wms_pojazdHolowany_swoj.svg"-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" >
+<!--SVG content generated using Symbology Configuration Management System (SCMS)-->
+<!--Systematic Software Engineering Ltd. www.systematic.co.uk Copyright 2003 - do not remove-->
+
+<svg id="wms_pojazdHolowany_swoj-1" width="400px" height="400px" viewBox="0 0 400 400">
+<g >
+
+<line x1="77" y1="377" x2="323" y2="377" style="fill:rgb(0,0,0);stroke:rgb0,0,0);stroke-width:10"></line>
+<circle cx="67" cy="377" r="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:10"></circle>
+<circle cx="333" cy="377" r="10" style="fill:rgb(255,255,255);stroke:rgb(0,0,0);stroke-width:10"></circle>
+
+</g>
+</svg>

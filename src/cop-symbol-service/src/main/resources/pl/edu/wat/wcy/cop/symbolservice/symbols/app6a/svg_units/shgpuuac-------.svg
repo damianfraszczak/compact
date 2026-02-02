@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" >
+<!--SVG content generated using Symbology Configuration Management System (SCMS)-->
+<!--Systematic Software Engineering Ltd. www.systematic.co.uk Copyright 2003 - do not remove-->
+<svg id="SHGPUUAC--*****" width="400px" height="450px" viewBox="0 0 400 450">
+<g >
+<svg viewBox="0 0 400 450" id="_0.SHG-U----------" width="400px" height="450px"><polyline points="200,413 373,240 200,67 27,240 200,413" style="stroke-linecap:square;fill:rgb(255,128,128);stroke:rgb(0,0,0);stroke-width:10"></polyline>
+</svg>
+
+</g>
+<g >
+<svg viewBox="0 0 400 450" id="_1.S-G-UUA--------" width="400px" height="450px"><ellipse cx="130" cy="200" rx="18" ry="18" style="fill:rgb(0,0,0);stroke:rgb(0,0,0);stroke-width:10"></ellipse>
+<ellipse cx="270" cy="200" rx="18" ry="18" style="fill:rgb(0,0,0);stroke:rgb(0,0,0);stroke-width:10"></ellipse>
+<path d="M140 185 C200 220 210 240 235 330" style="fill:none;stroke:rgb(0,0,0);stroke-width:10"></path>
+<path d="M260 185 C200 220 190 240 165 330" style="fill:none;stroke:rgb(0,0,0);stroke-width:10"></path>
+</svg>
+
+</g>
+<g transform="translate(100 38) scale(0.5 0.5)" >
+<svg viewBox="0 0 400 450" id="_2.S-A-MFC--------" width="400px" height="450px"><text x="200" y="280" style="fill:rgb(0,0,0);text-anchor:middle;font-weight:bold;font-size:150;font-family:Arial">C</text>
+</svg>
+
+</g>
+</svg>

@@ -1,0 +1,48 @@
+/**
+ * 
+ */
+package pl.edu.wat.wcy.cop.domain.scenario.enums.app6a;
+
+
+// Lists APP-6A unit types.
+public enum UnitTypeEnum {
+	INFANTRY,
+
+	MECHANIZEDINFANTRY,
+
+	MOTORIZEDINFANTRY,
+
+	ARTILERY,
+
+	ANTIAIR,
+
+	ANTIARMOUR,
+
+	ARMOUR,
+
+	FIXEDWING,
+
+	ROTARYWING,
+
+	ENGENEER,
+
+	MORTAR,
+
+	COMMUNICATIONS,
+
+	LOGISTICS,
+
+	RECONNAISSANCE,
+
+	ELECTRONICWAREFARE,
+
+	SUPPLY,
+
+	MAINTENANCE,
+
+	COMBAT,
+
+	INTELLIGENCE,
+
+	COMMANDANDCONTROL,
+}

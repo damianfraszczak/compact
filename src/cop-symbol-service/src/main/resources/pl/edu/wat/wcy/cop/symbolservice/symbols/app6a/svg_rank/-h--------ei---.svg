@@ -1,0 +1,17 @@
+<!--Szczebel kompanii (jedna kreska) - plik "sz_D1_obcy.svg"-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" >
+<!--SVG content generated using Symbology Configuration Management System (SCMS)-->
+<!--Systematic Software Engineering Ltd. www.systematic.co.uk Copyright 2003 - do not remove-->
+<svg id="sz_D1_obcy-1" width="400px" height="400px" viewBox="0 0 400 400">
+
+<g style="fill:none;stroke:rgb(0,0,0);stroke-width:10" >
+
+<line x1="158" y1="54" x2="192" y2="7" ></line>
+<line x1="158" y1="7" x2="192" y2="54" ></line>
+
+<line x1="208" y1="54" x2="242" y2="7" ></line>
+<line x1="208" y1="7" x2="242" y2="54" ></line>
+
+</g>
+
+</svg>

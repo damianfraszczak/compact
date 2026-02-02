@@ -1,0 +1,19 @@
+{
+  "name": "COMPACT Runtime",
+  "dockerFile": "../deploy/docker/Dockerfile",
+  "context": "../deploy",
+  "runArgs": ["-p", "50090:8080"],
+  "postStartCommand": "catalina.sh run >> /tmp/catalina.log 2>&1 &",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "vscjava.vscode-java-pack",
+        "redhat.java"
+      ]
+    }
+  },
+  "remoteUser": "root"
+}

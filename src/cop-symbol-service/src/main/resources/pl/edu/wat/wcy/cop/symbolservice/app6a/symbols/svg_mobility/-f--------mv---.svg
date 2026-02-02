@@ -1,0 +1,14 @@
+<!--Wskaznik mobilnosci sprzetu - pojazd sanie - plik "wms_pojazdSanie_swoj.svg"-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" >
+<!--SVG content generated using Symbology Configuration Management System (SCMS)-->
+<!--Systematic Software Engineering Ltd. www.systematic.co.uk Copyright 2003 - do not remove-->
+
+<svg  id="wms_pojazdSanie_swoj-1" width="400px" height="400px" viewBox="0 0 400 400">
+<g style="fill:none;stroke:rgb(0,0,0);stroke-width:10">
+
+<path d="M75 331 C74 331 56 341 74 351" ></path>
+<path d="M331 331 C331 331 354 341 331 351"></path>
+<line x1="74" y1="351" x2="331" y2="351"></line>
+
+</g>
+</svg>
