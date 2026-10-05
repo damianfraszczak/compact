@@ -1,0 +1,119 @@
+/**
+ *
+ */
+package pl.edu.wat.wcy.cop.app.client.ui.forms;
+
+import com.google.gwt.core.client.GWT;
+import com.google.gwt.editor.client.SimpleBeanEditorDriver;
+import com.sencha.gxt.widget.core.client.event.SelectEvent.SelectHandler;
+import org.fusesource.restygwt.client.JsonEncoderDecoder;
+import pl.edu.wat.wcy.cop.app.client.domain.json.EncodersDecoders;
+import pl.edu.wat.wcy.cop.app.client.ui.forms.editors.SearchUnitEditor;
+import pl.edu.wat.wcy.cop.app.shared.domain.sar.SearchUnitDto;
+// Defines search unit form UI.
+
+public class SearchUnitForm extends AbstractForm<SearchUnitDto, SearchUnitEditor> {
+    /**
+     * @param model
+     * @param okHandler
+     */
+    public SearchUnitForm(SearchUnitDto model, SelectHandler okHandler) {
+        super(model, okHandler);
+    }
+
+    /**
+     * @param model
+     * @param title
+     * @param okHandler
+     */
+    public SearchUnitForm(SearchUnitDto model, String title, SelectHandler okHandler) {
+        super(model, title, okHandler);
+    }
+
+    /**
+     * @param model
+     * @param okHandler
+     * @param readOnly
+     */
+    public SearchUnitForm(SearchUnitDto model, SelectHandler okHandler, boolean readOnly) {
+        super(model, okHandler, readOnly);
+    }
+
+    /**
+     * @param model
+     * @param title
+     * @param okHandler
+     * @param readOnly
+     */
+    public SearchUnitForm(SearchUnitDto model, String title, SelectHandler okHandler, boolean readOnly) {
+        super(model, title, okHandler, readOnly);
+    }
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see pl.edu.wat.wcy.cop.app.client.ui.forms.AbstractForm#buildDriver()
+     */
+    @Override
+    protected SimpleBeanEditorDriver<SearchUnitDto, SearchUnitEditor> buildDriver() {
+        return GWT.create(Driver.class);
+    }
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see pl.edu.wat.wcy.cop.app.client.ui.forms.AbstractForm#buildEditor()
+     */
+    @Override
+    protected SearchUnitEditor buildEditor() {
+
+        return GWT.create(SearchUnitEditor.class);
+    }
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see pl.edu.wat.wcy.cop.app.client.ui.forms.AbstractForm#beforeShow()
+     */
+    @Override
+    protected void beforeShow() {
+        // TODO Auto-generated method stub
+        super.beforeShow();
+
+    }
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see
+     * pl.edu.wat.wcy.cop.app.client.ui.forms.AbstractForm#afterOkClicked()
+     */
+    @Override
+    protected void afterOkClicked() {
+        super.afterOkClicked();
+    }
+
+    /*
+     * (non-Javadoc)
+     *
+     * @see
+     * pl.edu.wat.wcy.cop.app.client.ui.forms.AbstractForm#getEncoderDecoder()
+     */
+    @Override
+    protected JsonEncoderDecoder<SearchUnitDto> getEncoderDecoder() {
+        return EncodersDecoders.SEARCH_UNIT_ENCODER_DECODER;
+    }
+
+    @Override
+    protected int getMaxRowsCount() {
+        return editor.getRowsCount();
+    }
+
+    interface Driver extends SimpleBeanEditorDriver<SearchUnitDto, SearchUnitEditor> {
+    }
+
+    @Override
+    protected String getDefaultTitle() {
+        return "Jednostka poszukiwawcza";
+    }
+}

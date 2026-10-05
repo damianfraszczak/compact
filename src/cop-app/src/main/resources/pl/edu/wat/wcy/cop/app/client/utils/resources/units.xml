@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit app6aCode="------" name="GROUND TRACK">
+    <unit app6aCode="U-----" name="UNIT">
+        <unit app6aCode="UC----" name="COMBAT">
+            <unit app6aCode="UCD---" name="AIR DEFENSE">
+                <unit app6aCode="UCDS--" name="SHORT RANGE">
+                    <unit app6aCode="UCDSC-" name="CHAPARRAL">
+                    </unit>
+                    <unit app6aCode="UCDSS-" name="STINGER">
+                    </unit>
+                    <unit app6aCode="UCDSV-" name="VULCAN">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCDM--" name="AIR DEFENSE MISSILE">
+                    <unit app6aCode="UCDML-" name="AIR DEFENSE MISSILE LIGHT">
+                        <unit app6aCode="UCDMLA" name="AIR DEFENSE MISSILE MOTORIZED  (AVENGER)">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCDMM-" name="AIR DEFENSE MISSILE MEDIUM">
+                    </unit>
+                    <unit app6aCode="UCDMH-" name="AIR DEFENSE MISSILE HEAVY">
+                    </unit>
+                    <unit app6aCode="UCDH--" name="H/MAD">
+                        <unit app6aCode="UCDHH-" name="HAWK">
+                        </unit>
+                        <unit app6aCode="UCDHP-" name="PATRIOT">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="UCDG--" name="GUN UNIT">
+                </unit>
+                <unit app6aCode="UCDC--" name="COMPOSITE">
+                </unit>
+                <unit app6aCode="UCDT--" name="TARGETING UNIT">
+                </unit>
+                <unit app6aCode="UCDO--" name="THEATER MISSILE DEFENSE UNIT">
+                </unit>
+            </unit>
+            <unit app6aCode="UCA---" name="ARMOR">
+                <unit app6aCode="UCAT--" name="ARMOR TRACK">
+                    <unit app6aCode="UCATA-" name="ARMOR TRACK AIRBORNE">
+                    </unit>
+                    <unit app6aCode="UCATW-" name="ARMOR TRACK AMPHIBIOUS">
+                        <unit app6aCode="UCATWR" name="ARMOR TRACK AMPHIBIOUS RECOVERY">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCATL-" name="ARMOR TRACK, LIGHT">
+                    </unit>
+                    <unit app6aCode="UCATM-" name="ARMOR TRACK, MEDIUM">
+                    </unit>
+                    <unit app6aCode="UCATH-" name="ARMOR TRACK, HEAVY">
+                    </unit>
+                    <unit app6aCode="UCATR-" name="ARMOR TRACK, RECOVERY">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCAW--" name="ARMOR, WHEELED">
+                    <unit app6aCode="UCAWS-" name="ARMOR, WHEELED AIR ASSAULT">
+                    </unit>
+                    <unit app6aCode="UCAWA-" name="ARMOR, WHEELED AIRBORNE">
+                    </unit>
+                    <unit app6aCode="UCAWW-" name="ARMOR, WHEELED AMPHIBIOUS">
+                        <unit app6aCode="UCAWWR" name="ARMOR, WHEELED AMPHIBIOUS RECOVERY">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCAWL-" name="ARMOR, WHEELED LIGHT">
+                    </unit>
+                    <unit app6aCode="UCAWM-" name="ARMOR, WHEELED MEDIUM">
+                    </unit>
+                    <unit app6aCode="UCAWH-" name="ARMOR, WHEELED HEAVY">
+                    </unit>
+                    <unit app6aCode="UCAWR-" name="ARMOR, WHEELED RECOVERY">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="UCAA--" name="ANTI ARMOR">
+                <unit app6aCode="UCAAD-" name="ANTI ARMOR DISMOUNTED">
+                </unit>
+                <unit app6aCode="UCAAL-" name="ANTI ARMOR LIGHT">
+                </unit>
+                <unit app6aCode="UCAAM-" name="ANTI ARMOR AIRBORNE">
+                </unit>
+                <unit app6aCode="UCAAS-" name="ANTI ARMOR AIR ASSAULT">
+                </unit>
+                <unit app6aCode="UCAAU-" name="ANTI ARMOR MOUNTAIN">
+                </unit>
+                <unit app6aCode="UCAAC-" name="ANTI ARMOR ARCTIC">
+                </unit>
+                <unit app6aCode="UCAAA-" name="ANTI ARMOR ARMORED">
+                    <unit app6aCode="UCAAAT" name="ANTI ARMOR ARMORED TRACKED">
+                    </unit>
+                    <unit app6aCode="UCAAAW" name="ANTI ARMOR ARMORED WHEELED">
+                    </unit>
+                    <unit app6aCode="UCAAAS" name="ANTI ARMOR ARMORED AIR ASSAULT">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCAAO-" name="ANTI ARMOR MOTORIZED">
+                    <unit app6aCode="UCAAOS" name="ANTI ARMOR MOTORIZED AIR ASSAULT">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="UCV---" name="AVIATION">
+                <unit app6aCode="UCVF--" name="FIXED WING">
+                    <unit app6aCode="UCVFU-" name="UTILITY FIXED WING">
+                    </unit>
+                    <unit app6aCode="UCVFA-" name="ATTACK FIXED WING">
+                    </unit>
+                    <unit app6aCode="UCVFR-" name="RECON FIXED WING">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCVR--" name="ROTARY WING">
+                    <unit app6aCode="UCVRA-" name="ATTACK ROTARY WING">
+                    </unit>
+                    <unit app6aCode="UCVRS-" name="SCOUT ROTARY WING">
+                    </unit>
+                    <unit app6aCode="UCVRW-" name="ANTISUBMARINE WARFARE ROTARY WING">
+                    </unit>
+                    <unit app6aCode="UCVRU-" name="UTILITY ROTARY WING">
+                        <unit app6aCode="UCVRUL" name="LIGHT UTILITY ROTARY WING">
+                        </unit>
+                        <unit app6aCode="UCVRUM" name="MEDIUM UTILITY ROTARY WING">
+                        </unit>
+                        <unit app6aCode="UCVRUH" name="HEAVY UTILITY ROTARY WING">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCVRUC" name="C2 ROTARY WING">
+                    </unit>
+                    <unit app6aCode="UCVRUE" name="MEDEVAC ROTARY WING">
+                    </unit>
+                    <unit app6aCode="UCVRM-" name="MINE COUNTERMEASURE ROTARY WING">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCVS--" name="SEARCHAND RESCUE">
+                </unit>
+                <unit app6aCode="UCVC--" name="COMPOSITE">
+                </unit>
+                <unit app6aCode="UCVV--" name="VERTICAL/SHORT TAKEOFF ANDLANDING (V/STOL)">
+                </unit>
+                <unit app6aCode="UCVU--" name="UNMANNED AERIAL VEHICLE">
+                    <unit app6aCode="UCVUF-" name="UNMANNED AERIAL VEHICLE FIXED WING">
+                    </unit>
+                    <unit app6aCode="UCVUR-" name="UNMANNED AERIAL VEHICLE ROTARY WING">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="UCI---" name="INFANTRY">
+                <unit app6aCode="UCIL--" name="INFANTRY LIGHT">
+                </unit>
+                <unit app6aCode="UCIM--" name="INFANTRY MOTORIZED">
+                </unit>
+                <unit app6aCode="UCIO--" name="INFANTRY MOUNTAIN">
+                </unit>
+                <unit app6aCode="UCIA--" name="INFANTRY AIRBORNE">
+                </unit>
+                <unit app6aCode="UCIS--" name="INFANTRY AIR ASSAULT">
+                </unit>
+                <unit app6aCode="UCIZ--" name="INFANTRY MECHANIZED">
+                </unit>
+                <unit app6aCode="UCIN--" name="INFANTRY NAVAL">
+                </unit>
+                <unit app6aCode="UCII--" name="INFANTRY FIGHTING VEHICLE">
+                </unit>
+                <unit app6aCode="UCIC--" name="INFANTRY ARCTIC">
+                </unit>
+            </unit>
+            <unit app6aCode="UCE---" name="ENGINEER">
+                <unit app6aCode="UCEC--" name="ENGINEER COMBAT">
+                    <unit app6aCode="UCECS-" name="ENGINEER COMBAT AIR ASSAULT">
+                    </unit>
+                    <unit app6aCode="UCECA-" name="ENGINEER COMBAT AIRBORNE">
+                    </unit>
+                    <unit app6aCode="UCECC-" name="ENGINEER COMBAT ARCTIC">
+                    </unit>
+                    <unit app6aCode="UCECL-" name="ENGINEER COMBAT LIGHT (SAPPER)">
+                    </unit>
+                    <unit app6aCode="UCECM-" name="ENGINEER COMBAT MEDIUM">
+                    </unit>
+                    <unit app6aCode="UCECH-" name="ENGINEER COMBAT HEAVY">
+                    </unit>
+                    <unit app6aCode="UCECT-" name="ENGINEER COMBAT MECHANIZED (TRACK)">
+                    </unit>
+                    <unit app6aCode="UCECW-" name="ENGINEER COMBAT MOTORIZED">
+                    </unit>
+                    <unit app6aCode="UCECO-" name="ENGINEER COMBAT MOUNTAIN">
+                        <unit app6aCode="UCECR-" name="ENGINEER COMBAT RECON">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="UCEN--" name="ENGINEER CONSTRUCTION">
+                    <unit app6aCode="UCENN-" name="ENGINEER NAVAL CONSTRUCTION">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="UCF---" name="FIELD ARTILLERY">
+                <unit app6aCode="UCFH--" name="HOWITZER/GUN">
+                    <unit app6aCode="UCFHE-" name="SELF PROPELLED">
+                    </unit>
+                    <unit app6aCode="UCFHS-" name="AIR ASSAULT">
+                    </unit>
+                    <unit app6aCode="UCFHA-" name="AIRBORNE">
+                    </unit>
+                    <unit app6aCode="UCFHC-" name="ARCTIC">
+                    </unit>
+                    <unit app6aCode="UCFHO-" name="MOUNTAIN">
+                    </unit>
+                    <unit app6aCode="UCFHL-" name="LIGHT">
+                    </unit>
+                    <unit app6aCode="UCFHM-" name="MEDIUM">
+                    </unit>
+                    <unit app6aCode="UCFHH-" name="HEAVY">
+                    </unit>
+                    <unit app6aCode="UCFHX-" name="AMPHIBIOUS">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCFR--" name="ROCKET">
+                    <unit app6aCode="UCFRS-" name="SINGLE ROCKET LAUNCHER">
+                        <unit app6aCode="UCFRSS" name="SINGLE ROCKET SELF PROPELLED">
+                        </unit>
+                        <unit app6aCode="UCFRSR" name="SINGLE ROCKET TRUCK">
+                        </unit>
+                        <unit app6aCode="UCFRST" name="SINGLE ROCKET TOWED">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCFRM-" name="MULTI ROCKET LAUNCHER">
+                        <unit app6aCode="UCFRMS" name="MULTI ROCKET SELF PROPELLED">
+                        </unit>
+                        <unit app6aCode="UCFRMR" name="MULTI ROCKET TRUCK">
+                        </unit>
+                        <unit app6aCode="UCFRMT" name="MULTI ROCKET TOWED">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="UCFT--" name="TARGET ACQUISITION">
+                    <unit app6aCode="UCFTR-" name="RADAR">
+                    </unit>
+                    <unit app6aCode="UCFTS-" name="SOUND">
+                    </unit>
+                    <unit app6aCode="UCFTF-" name="FLASH(OPTICAL)">
+                    </unit>
+                    <unit app6aCode="UCFTC-" name="COLT/FIST">
+                        <unit app6aCode="UCFTCD" name="DISMOUNTED COLT/FIST">
+                        </unit>
+                        <unit app6aCode="UCFTCM" name="TRACKED COLT/FIST">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCFTA-" name="ANGLICO">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCFM--" name="MORTAR">
+                    <unit app6aCode="UCFMS-" name="SELF PROPELLED (SP) TRACKED MORTAR">
+                    </unit>
+                    <unit app6aCode="UCFMSW" name="SP WHEELED MORTAR">
+                    </unit>
+                    <unit app6aCode="UCFMT-" name="TOWED MORTAR">
+                        <unit app6aCode="UCFMTA" name="TOWED AIRBORNE MORTAR">
+                        </unit>
+                        <unit app6aCode="UCFMTS" name="TOWED AIR ASSAULT MORTAR">
+                        </unit>
+                        <unit app6aCode="UCFMTC" name="TOWED ARCTICMORTAR">
+                        </unit>
+                        <unit app6aCode="UCFMTO" name="TOWED MOUNTAIN MORTAR">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCFML-" name="AMPHIBIOUS MORTAR">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCFS--" name="ARTILLERY SURVEY">
+                    <unit app6aCode="UCFSS-" name="AIR ASSAULT">
+                    </unit>
+                    <unit app6aCode="UCFSA-" name="AIRBORNE">
+                    </unit>
+                    <unit app6aCode="UCFSL-" name="LIGHT">
+                    </unit>
+                    <unit app6aCode="UCFSO-" name="MOUNTAIN">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCFO--" name="METEOROLOGICAL">
+                    <unit app6aCode="UCFOS-" name="AIR ASSAULT METEOROLOGICAL">
+                    </unit>
+                    <unit app6aCode="UCFOA-" name="AIRBORNE METEOROLOGICAL">
+                    </unit>
+                    <unit app6aCode="UCFOL-" name="LIGHT METEOROLOGICAL">
+                    </unit>
+                    <unit app6aCode="UCFOO-" name="MOUNTAIN METEOROLOGICAL">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="UCR---" name="RECONNAISSANCE">
+                <unit app6aCode="UCRH--" name="RECONNAISSANCE HORSE">
+                </unit>
+                <unit app6aCode="UCRV--" name="RECONNAISSANCE CAVALRY">
+                    <unit app6aCode="UCRVA-" name="RECONNAISSANCE CAVALRY ARMORED">
+                    </unit>
+                    <unit app6aCode="UCRVM-" name="RECONNAISSANCE CAVALRY MOTORIZED">
+                    </unit>
+                    <unit app6aCode="UCRVG-" name="RECONNAISSANCE CAVALRY GROUND">
+                    </unit>
+                    <unit app6aCode="UCRVO-" name="RECONNAISSANCE CAVALRY AIR">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCRC--" name="RECONNAISSANCE ARCTIC">
+                </unit>
+                <unit app6aCode="UCRS--" name="RECONNAISSANCE AIR ASSAULT">
+                </unit>
+                <unit app6aCode="UCRA--" name="RECONNAISSANCE AIRBORNE">
+                </unit>
+                <unit app6aCode="UCRO--" name="RECONNAISSANCE MOUNTAIN">
+                </unit>
+                <unit app6aCode="UCRLL--" name="RECONNAISSANCE LIGHT">
+                </unit>
+                <unit app6aCode="UCRR--" name="RECONNAISSANCE MARINE">
+                    <unit app6aCode="UCRRD-" name="RECONNAISSANCE MARINE DIVISION">
+                    </unit>
+                    <unit app6aCode="UCRRF-" name="RECONNAISSANCE MARINE FORCE">
+                    </unit>
+                    <unit app6aCode="UCRRL-" name="RECONNAISSANCE MARINE LIGHT ARMORED RECONNAISSNACE (LAR)">
+                    </unit>
+                </unit>
+                <unit app6aCode="UCRX--" name="RECONNAISSANCE LONG RANGE SURVEILLANCE (LRS)">
+                </unit>
+            </unit>
+            <unit app6aCode="UCM---" name="MISSILE (SURF-SURF)">
+                <unit app6aCode="UCMT--" name="MISSILE (SURF-SURF) TACTICAL">
+                </unit>
+                <unit app6aCode="UCMS--" name="MISSILE (SURF-SURF) STRATEGIC">
+                </unit>
+                <unit app6aCode="UCS---" name="INTERNAL SECURITY FORCES">
+                    <unit app6aCode="UCSW--" name="RIVERINE">
+                    </unit>
+                    <unit app6aCode="UCSG--" name="GROUND">
+                        <unit app6aCode="UCSGD-" name="DISMOUNTED GROUND">
+                        </unit>
+                        <unit app6aCode="UCSGM-" name="MOTORIZED GROUND">
+                        </unit>
+                        <unit app6aCode="UCSGA-" name="MECHANIZED GROUND">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UCSM--" name="WHEELED MECHANIZED">
+                    </unit>
+                    <unit app6aCode="UCSR--" name="RAILROAD">
+                    </unit>
+                    <unit app6aCode="UCSA--" name="AVIATION">
+                    </unit>
+                </unit>
+            </unit>
+        </unit>
+        <unit app6aCode="UU----" name="COMBAT SUPPORT">
+            <unit app6aCode="UUA---" name="COMBAT SUPPORT NBC">
+                <unit app6aCode="UUAC--" name="CHEMICAL">
+                    <unit app6aCode="UUACC-" name="SMOKE/DECON">
+                        <unit app6aCode="UUACCK" name="MECHANIZED SMOKE/DECON">
+                        </unit>
+                        <unit app6aCode="UUACCM" name="MOTORIZED SMOKE/DECON">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UUACS-" name="SMOKE">
+                        <unit app6aCode="UUACSM" name="MOTORIZED SMOKE">
+                        </unit>
+                        <unit app6aCode="UUACSA" name="ARMOR SMOKE">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UUACR-" name="CHEMICAL RECON">
+                        <unit app6aCode="UUACRW" name="CHEMICAL WHEELED ARMORED VEHICLE">
+                        </unit>
+                        <unit app6aCode="UUACRS" name="CHEMICAL WHEELED ARMORED VEHICLE RECONNAISSANCE SURVEILLANCE">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="UUAN--" name="NUCLEAR">
+                </unit>
+                <unit app6aCode="UUAB--" name="BIOLOGICAL">
+                    <unit app6aCode="UUABR-" name="RECON EQUIPPED">
+                    </unit>
+                </unit>
+                <unit app6aCode="UUAD--" name="DECONTAMINATION">
+                </unit>
+            </unit>
+            <unit app6aCode="UUM---" name="MILITARY INTELLIGENCE">
+                <unit app6aCode="UUMA--" name="AERIAL EXPLOITATION">
+                </unit>
+                <unit app6aCode="UUMS--" name="SIGNAL INTELLIGENCE (SIGINT)">
+                    <unit app6aCode="UUMSE-" name="ELECTRONICWARFARE">
+                        <unit app6aCode="UUMSEA" name="ARMORED WHEELED VEHICLE">
+                        </unit>
+                        <unit app6aCode="UUMSED" name="DIRECTION FINDING">
+                        </unit>
+                        <unit app6aCode="UUMSEI" name="INTERCEPT">
+                        </unit>
+                        <unit app6aCode="UUMSEJ" name="JAMMING">
+                        </unit>
+                        <unit app6aCode="UUMSET" name="THEATER">
+                        </unit>
+                        <unit app6aCode="UUMSEC" name="CORPS">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="UUMC--" name="COUNTER INTELLIGENCE">
+                </unit>
+                <unit app6aCode="UUMR--" name="SURVEILLANCE">
+                    <unit app6aCode="UUMRG-" name="GROUND SURVEILLANCE RADAR">
+                    </unit>
+                    <unit app6aCode="UUMRS-" name="SENSOR">
+                        <unit app6aCode="UUMRSS" name="SENSOR SCM">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="UUMRX-" name="GROUND STATION MODULE">
+                    </unit>
+                    <unit app6aCode="UUMMO-" name="METEOROLOGICAL">
+                    </unit>
+                </unit>
+                <unit app6aCode="UUMO--" name="OPERATIONS">
+                </unit>
+                <unit app6aCode="UUMT--" name="TACTICAL EXPLOIT">
+                </unit>
+                <unit app6aCode="UUMQ--" name="INTERROGATION">
+                </unit>
+                <unit app6aCode="UUMJ--" name="JOINT INTELLIGENCE CENTER">
+                </unit>
+            </unit>
+            <unit app6aCode="UUL---" name="LAW ENFORCEMENT UNIT">
+                <unit app6aCode="UULS--" name="SHORE PATROL">
+                </unit>
+                <unit app6aCode="UULM--" name="MILITARY POLICE">
+                </unit>
+                <unit app6aCode="UULC--" name="CIVILIAN LAW ENFORCEMENT">
+                </unit>
+                <unit app6aCode="UULF--" name="SECURITY POLICE (AIR)">
+                </unit>
+                <unit app6aCode="UULD--" name="CENTRAL INTELLIGENCE DIVISION (CID)">
+                </unit>
+            </unit>
+            <unit app6aCode="UUS---" name="SIGNAL UNIT">
+                <unit app6aCode="UUSA--" name="AREA">
+                </unit>
+                <unit app6aCode="UUSC--" name="COMMUNICATION CONFIGURED PACKAGE">
+                    <unit app6aCode="UUSCL-" name="LARGE COMMUNICATION CONFIGURED PACKAGE (LCCP)">
+                    </unit>
+                </unit>
+                <unit app6aCode="UUSO--" name="COMMAND OPERATIONS">
+                </unit>
+                <unit app6aCode="UUSF--" name="FORWARD COMMUNICATIONS">
+                </unit>
+                <unit app6aCode="UUSM--" name="MULTIPLE SUBSCRIBER ELEMENT">
+                    <unit app6aCode="UUSMS-" name="SMALL EXTENSION NODE">
+                    </unit>
+                    <unit app6aCode="UUSML-" name="LARGE EXTENSION NODE">
+                    </unit>
+                    <unit app6aCode="UUSMN-" name="NODE CENTER">
+                    </unit>
+                </unit>
+                <unit app6aCode="UUSR--" name="RADIO UNIT">
+                    <unit app6aCode="UUSRS-" name="TACTICAL SATELLITE">
+                    </unit>
+                    <unit app6aCode="UUSRT-" name="TELETYPE CENTER">
+                    </unit>
+                    <unit app6aCode="UUSRW-" name="RELAY">
+                    </unit>
+                </unit>
+                <unit app6aCode="UUSS--" name="SIGNAL SUPPORT">
+                </unit>
+                <unit app6aCode="UUSW--" name="TELEPHONE SWITCH">
+                </unit>
+                <unit app6aCode="UUSX--" name="ELECTRONICRANGING">
+                </unit>
+            </unit>
+            <unit app6aCode="UUI---" name="INFORMATION WARFARE UNIT">
+            </unit>
+            <unit app6aCode="UUX---" name="LANDING SUPPORT">
+            </unit>
+            <unit app6aCode="UUE---" name="EXPLOSIVE ORDINANCE DISPOSAL">
+            </unit>
+        </unit>
+        <unit app6aCode="US----" name="COMBAT SERVICE SUPPORT">
+            <unit app6aCode="USA---" name="ADMINISTRATIVE (ADMIN)">
+                <unit app6aCode="USAT--" name="ADMIN THEATER">
+                </unit>
+                <unit app6aCode="USAC--" name="ADMIN CORPS">
+                </unit>
+                <unit app6aCode="USAJ--" name="JUDGE ADVOCATE GENERAL (JAG)">
+                    <unit app6aCode="USAJT-" name="JAG THEATER">
+                    </unit>
+                    <unit app6aCode="USAJC-" name="JAG CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USAO--" name="POSTAL">
+                    <unit app6aCode="USAOT-" name="POSTAL THEATER">
+                    </unit>
+                    <unit app6aCode="USAOC-" name="POSTAL CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USAF--" name="FINANCE">
+                    <unit app6aCode="USAFT-" name="FINANCE THEATER">
+                    </unit>
+                    <unit app6aCode="USAFC-" name="FINANCE CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USAS--" name="PERSONNEL SERVICES">
+                    <unit app6aCode="USAST-" name="PERSONNEL THEATER">
+                    </unit>
+                    <unit app6aCode="USASC-" name="PERSONNEL CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USAM--" name="MORTUARY/GRAVES REGISTRY">
+                    <unit app6aCode="USAMT-" name="MORTUARY/GRAVES REGISTRY THEATER">
+                    </unit>
+                    <unit app6aCode="USAMC-" name="MORTUARY/GRAVES REGISTRY CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USAR--" name="RELIGIOUS/CHAPLAIN">
+                    <unit app6aCode="USART-" name="RELIGIOUS/CHAPLAIN THEATER">
+                    </unit>
+                    <unit app6aCode="USARC-" name="RELIGIOUS/CHAPLAIN CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USAP--" name="PUBLICAFFAIRS">
+                    <unit app6aCode="USAPT-" name="PUBLICAFFAIRS THEATER">
+                    </unit>
+                    <unit app6aCode="USAPC-" name="PUBLICAFFAIRS CORPS">
+                    </unit>
+                    <unit app6aCode="USAPB-" name="PUBLICAFFAIRS BROADCAST">
+                        <unit app6aCode="USAPBT" name="PUBLICAFFAIRS BROADCAST THEATER">
+                        </unit>
+                        <unit app6aCode="USAPBC" name="PUBLICAFFAIRS BROADCAST CORPS">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="USAPM-" name="PUBLICAFFAIRS JOINT INFORMATION BUREAU(JIB)">
+                        <unit app6aCode="USAPMT" name="PUBLICAFFAIRS JIB THEATER">
+                        </unit>
+                        <unit app6aCode="USAPMC" name="PUBLICAFFAIRS JIB CORPS">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="USAX--" name="REPLACEMENT HOLDING UNIT (RHU)">
+                        <unit app6aCode="USAXT-" name="RHU THEATER">
+                        </unit>
+                        <unit app6aCode="USAXC-" name="RHU CORPS">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="USAL--" name="LABOR">
+                        <unit app6aCode="USALT-" name="LABOR THEATER">
+                        </unit>
+                        <unit app6aCode="USALC-" name="LABOR CORPS">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="USAW--" name="MORAL, WELFARE, RECREATION (MWR)">
+                        <unit app6aCode="USAWT-" name="MWR THEATER">
+                        </unit>
+                        <unit app6aCode="USAWC-" name="MWR CORPS">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="USAQ--" name="QUARTERMASTER (SUPPLY)">
+                        <unit app6aCode="USAQT-" name="QUARTERMASTER (SUPPLY) THEATER">
+                        </unit>
+                        <unit app6aCode="USAQC-" name="QUARTERMASTER (SUPPLY) CORPS">
+                        </unit>
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="USM---" name="MEDICAL">
+                <unit app6aCode="USMT--" name="MEDICAL THEATER">
+                </unit>
+                <unit app6aCode="USMC--" name="MEDICAL CORPS">
+                </unit>
+                <unit app6aCode="USMM--" name="MEDICAL TREATMENT FACILITY">
+                    <unit app6aCode="USMMT-" name="MEDICAL TREATMENT FACILITY THEATER">
+                    </unit>
+                    <unit app6aCode="USMMC-" name="MEDICAL TREATMENT FACILITY CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USMV--" name="MEDICAL VETERINARY">
+                    <unit app6aCode="USMVT-" name="MEDICAL VETERINARY THEATER">
+                    </unit>
+                    <unit app6aCode="USMVC-" name="MEDICAL VETERINARY CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USMD--" name="MEDICAL DENTAL">
+                    <unit app6aCode="USMDT-" name="MEDICAL DENTAL THEATER">
+                    </unit>
+                    <unit app6aCode="USMDC-" name="MEDICAL DENTAL CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USMP--" name="MEDICAL PSYCHOLOGICAL">
+                    <unit app6aCode="USMPT-" name="MEDICAL PSYCHOLOGICAL THEATER">
+                    </unit>
+                    <unit app6aCode="USMPC-" name="MEDICAL PSYCHOLOGICAL CORPS">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="USS---" name="SUPPLY">
+                <unit app6aCode="USST--" name="SUPPLY THEATER">
+                </unit>
+                <unit app6aCode="USSC--" name="SUPPLY CORPS">
+                </unit>
+                <unit app6aCode="USS1--" name="SUPPLY CLASS I">
+                    <unit app6aCode="USS1T-" name="SUPPLY CLASS I THEATER">
+                    </unit>
+                    <unit app6aCode="USS1C-" name="SUPPLY CLASS I CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS2--" name="SUPPLY CLASS II">
+                    <unit app6aCode="USS2T-" name="SUPPLY CLASS II THEATER">
+                    </unit>
+                    <unit app6aCode="USS2C-" name="SUPPLY CLASS II CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS3--" name="SUPPLY CLASS III">
+                    <unit app6aCode="USS3T-" name="SUPPLY CLASS III THEATER">
+                    </unit>
+                    <unit app6aCode="USS3C-" name="SUPPLY CLASS III CORPS">
+                    </unit>
+                    <unit app6aCode="USS3A-" name="SUPPLY CLASS III AVIATION">
+                        <unit app6aCode="USS3AT" name="SUPPLY CLASS III AVIATION THEATER">
+                        </unit>
+                        <unit app6aCode="USS3AC" name="SUPPLY CLASS III AVIATION CORPS">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="USS4--" name="SUPPLY CLASS IV">
+                    <unit app6aCode="USS4T-" name="SUPPLY CLASS IV THEATER">
+                    </unit>
+                    <unit app6aCode="USS4C-" name="SUPPLY CLASS IV CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS5--" name="SUPPLY CLASS V">
+                    <unit app6aCode="USS5T-" name="SUPPLY CLASS V THEATER">
+                    </unit>
+                    <unit app6aCode="USS5C-" name="SUPPLY CLASS V CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS6--" name="SUPPLY CLASS VI">
+                    <unit app6aCode="USS6T-" name="SUPPLY CLASS VI THEATER">
+                    </unit>
+                    <unit app6aCode="USS6C-" name="SUPPLY CLASS VI CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS7--" name="SUPPLY CLASS VII">
+                    <unit app6aCode="USS7T-" name="SUPPLY CLASS VII THEATER">
+                    </unit>
+                    <unit app6aCode="USS7C-" name="SUPPLY CLASS VII CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS8--" name="SUPPLY CLASS VIII">
+                    <unit app6aCode="USS8T-" name="SUPPLY CLASS VIII THEATER">
+                    </unit>
+                    <unit app6aCode="USS8C-" name="SUPPLY CLASS VIII CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USS9--" name="SUPPLY CLASS IX">
+                    <unit app6aCode="USS9T-" name="SUPPLY CLASS IX THEATER">
+                    </unit>
+                    <unit app6aCode="USS9C-" name="SUPPLY CLASS IX CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USSX--" name="SUPPLY CLASS X">
+                    <unit app6aCode="USSXT-" name="SUPPLY CLASS X THEATER">
+                    </unit>
+                    <unit app6aCode="USSXC-" name="SUPPLY CLASS X CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USSL--" name="SUPPLY LAUNDRY/BATH">
+                    <unit app6aCode="USSLT-" name="SUPPLY LAUNDRY/BATHTHEATER">
+                    </unit>
+                    <unit app6aCode="USSLC-" name="SUPPLY LAUNDRY/BATHCORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USSW--" name="SUPPLY WATER">
+                    <unit app6aCode="USSWT-" name="SUPPLY WATER THEATER">
+                    </unit>
+                    <unit app6aCode="USSWC-" name="SUPPLY WATER CORPS">
+                    </unit>
+                    <unit app6aCode="USSWP-" name="SUPPLY WATER PURIFICATION">
+                        <unit app6aCode="USSWPT" name="SUPPLY WATER PURIFICATION THEATER">
+                        </unit>
+                        <unit app6aCode="USSWPC" name="SUPPLY WATER PURIFICATION CORPS">
+                        </unit>
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="UST---" name="TRANSPORTATION">
+                <unit app6aCode="USTT--" name="TRANSPORTATION THEATER">
+                </unit>
+                <unit app6aCode="USTC--" name="TRANSPORTATION CORPS">
+                </unit>
+                <unit app6aCode="USTM--" name="MOVEMENT CONTROL CENTER(MCC)">
+                    <unit app6aCode="USTMT-" name="MCC THEATER">
+                    </unit>
+                    <unit app6aCode="USTMC-" name="MCC CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USTR--" name="RAILHEAD">
+                    <unit app6aCode="USTRT-" name="RAILHEAD THEATER">
+                    </unit>
+                    <unit app6aCode="USTRC-" name="RAILHEAD CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USTS--" name="SPOD/SPOE">
+                    <unit app6aCode="USTST-" name="SPOD/SPOE THEATER">
+                    </unit>
+                    <unit app6aCode="USTSC-" name="SPOD/SPOE CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USTA--" name="APOD/APOE">
+                    <unit app6aCode="USTAT-" name="APOD/APOE THEATER">
+                    </unit>
+                    <unit app6aCode="USTAC-" name="APOD/APOE CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USTI--" name="MISSILE">
+                    <unit app6aCode="USTIT-" name="MISSILE THEATER">
+                    </unit>
+                    <unit app6aCode="USTIC-" name="MISSILE CORPS">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="USX---" name="MAINTENANCE">
+                <unit app6aCode="USXT--" name="MAINTENANCE THEATER">
+                </unit>
+                <unit app6aCode="USXC--" name="MAINTENANCE CORPS">
+                </unit>
+                <unit app6aCode="USXH--" name="MAINTENANCE HEAVY">
+                    <unit app6aCode="USXHT-" name="MAINTENANCE HEAVY THEATER">
+                    </unit>
+                    <unit app6aCode="USXHC-" name="MAINTENANCE HEAVY CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USXR--" name="MAINTENANCE RECOVERY">
+                    <unit app6aCode="USXRT-" name="MAINTENANCE RECOVERY THEATER">
+                    </unit>
+                    <unit app6aCode="USXRC-" name="MAINTENANCE RECOVERY CORPS">
+                    </unit>
+                </unit>
+                <unit app6aCode="USXO--" name="ORDINANCE">
+                    <unit app6aCode="USXOT-" name="ORDINANCE THEATER">
+                    </unit>
+                    <unit app6aCode="USXOC-" name="ORDINANCE CORPS">
+                    </unit>
+                    <unit app6aCode="USXOM-" name="ORDINANCE MISSILE">
+                        <unit app6aCode="USXOMT" name="ORDINANCE MISSILE THEATER">
+                        </unit>
+                        <unit app6aCode="USXOMC" name="ORDINANCE MISSILE CORPS">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="USXE--" name="ELECTRO-OPTICAL">
+                    <unit app6aCode="USXET-" name="ELECTRO-OPTICAL THEATER">
+                    </unit>
+                    <unit app6aCode="USXEC-" name="ELECTRO-OPTICAL CORPS">
+                    </unit>
+                </unit>
+            </unit>
+        </unit>
+        <unit app6aCode="UH----" name="SPECIAL C2 HEADQUARTERS COMPONENT">
+        </unit>
+    </unit>
+    <unit app6aCode="E-----" name="GROUND TRACK EQUIPMENT">
+        <unit app6aCode="EW----" name="WEAPONS">
+            <unit app6aCode="EWM---" name="MISSILE LAUNCHERS">
+                <unit app6aCode="EWMA--" name="AIR DEFENSE (AD) MISSILE LAUNCH">
+                    <unit app6aCode="EWMAT-" name="AD MISSILE LAUNCHTHEATER">
+                    </unit>
+                    <unit app6aCode="EWMAL-" name="LONG RANGE AD MISSILE LAUNCH">
+                    </unit>
+                    <unit app6aCode="EWMAI-" name="INTERMEDIATE RANGE AD MISSILE LAUNCH">
+                    </unit>
+                    <unit app6aCode="EWMAS-" name="SHORT RANGE AD MISSILE LAUNCHERS">
+                    </unit>
+                </unit>
+                <unit app6aCode="EWMS--" name="SURF-SURF (SS) MISSILE LAUNCHER">
+                    <unit app6aCode="EWMSL-" name="LONG RANGE SS MISSILE LAUNCH">
+                    </unit>
+                    <unit app6aCode="EWMSI-" name="INTERMEDIATE RANGE SS MISSILE LAUNCH">
+                    </unit>
+                    <unit app6aCode="EWMSS-" name="SHORT RANGE SS MISSILE LAUNCH">
+                    </unit>
+                </unit>
+                <unit app6aCode="EWMT--" name="MISSILE LAUNCHERS ANTI TANK (AT)">
+                    <unit app6aCode="EWMTL-" name="MISSILE LAUNCHERS AT LIGHT">
+                    </unit>
+                    <unit app6aCode="EWMTM-" name="MISSILE LAUNCHER AT MEDIUM">
+                    </unit>
+                    <unit app6aCode="EWMTH-" name="MISSILE LAUNCHER AT HEAVY">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="EWS---" name="SINGLE ROCKET LAUNCHER">
+                <unit app6aCode="EWSL--" name="SINGLE ROCKET LAUNCHER LIGHT">
+                </unit>
+                <unit app6aCode="EWSM--" name="SINGLE ROCKET LAUNCHER MEDIUM">
+                </unit>
+                <unit app6aCode="EWSH--" name="SINGLE ROCKET LAUNCHER HEAVY">
+                </unit>
+            </unit>
+            <unit app6aCode="EWX---" name="MULTIPLE ROCKET LAUNCHER">
+                <unit app6aCode="EWXL--" name="MULTIPLE ROCKET LAUNCHER LIGHT">
+                </unit>
+                <unit app6aCode="EWXM--" name="MULTIPLE ROCKET LAUNCHER MEDIUM">
+                </unit>
+                <unit app6aCode="EWXH--" name="MULTIPLE ROCKET LAUNCHER HEAVY">
+                </unit>
+            </unit>
+            <unit app6aCode="EWT---" name="ANTITANK ROCKET LAUNCHER">
+                <unit app6aCode="EWTL--" name="ANTITANK ROCKET LAUNCHER LIGHT">
+                </unit>
+                <unit app6aCode="EWTM--" name="ANTITANK ROCKET LAUNCHER MEDIUM">
+                </unit>
+                <unit app6aCode="EWTH--" name="ANTITANK ROCKET LAUNCHER HEAVY">
+                </unit>
+            </unit>
+            <unit app6aCode="EWR---" name="RIFLE/AUTOMATICWEAPON">
+                <unit app6aCode="EWMRR--" name="RIFLE">
+                </unit>
+                <unit app6aCode="EWMRL--" name="LIGHT MACHINE GUN">
+                </unit>
+                <unit app6aCode="EWMRH--" name="HEAVY MACHINE GUN">
+                </unit>
+            </unit>
+            <unit app6aCode="EWMZ---" name="GRENADE LAUNCHER">
+                <unit app6aCode="EWMZL--" name="GRENADE LAUNCHER LIGHT">
+                </unit>
+                <unit app6aCode="EWMZM--" name="GRENADE LAUNCHER MEDIUM">
+                </unit>
+                <unit app6aCode="EWMZH--" name="GRENADE LAUNCHER HEAVY">
+                </unit>
+            </unit>
+            <unit app6aCode="EWMO---" name="MORTAR">
+                <unit app6aCode="EWMOL--" name="MORTAR LIGHT">
+                </unit>
+                <unit app6aCode="EWMOM--" name="MORTAR MEDIUM">
+                </unit>
+                <unit app6aCode="EWMOH--" name="MORTAR HEAVY">
+                </unit>
+            </unit>
+            <unit app6aCode="EWMH---" name="HOWITZER">
+                <unit app6aCode="EWMHL--" name="HOWITZER LIGHT">
+                    <unit app6aCode="EWMHLS-" name="HOWITZER LIGHT SELF-PROPELLED">
+                    </unit>
+                </unit>
+                <unit app6aCode="EWMHM--" name="HOWITZER MEDIUM">
+                    <unit app6aCode="EWMHMS-" name="HOWITZER MEDIUM SELF-PROPELLED">
+                    </unit>
+                </unit>
+                <unit app6aCode="EWMHH--" name="HOWITZER HEAVY">
+                    <unit app6aCode="EWMHHS-" name="HOWITZER HEAVY SELF-PROPELLED">
+                    </unit>
+                </unit>
+            </unit>
+            <unit app6aCode="EWMG---" name="ANTITANK GUN">
+                <unit app6aCode="EWMGR--" name="ANTITANK GUN RECOILLESS">
+                </unit>
+                <unit app6aCode="EWMGL--" name="ANTITANK GUN LIGHT">
+                </unit>
+                <unit app6aCode="EWMGM--" name="ANTITANK GUN MEDIUM">
+                </unit>
+                <unit app6aCode="EWMGH--" name="ANTITANK GUN HEAVY">
+                </unit>
+                <unit app6aCode="EWMD---" name="DIRECT FIRE GUN">
+                    <unit app6aCode="EWMDL--" name="DIRECT FIRE GUN LIGHT">
+                        <unit app6aCode="EWMDLS-" name="DIRECT FIRE GUN LIGHT SELF-PROPELLED">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="EWMDM--" name="DIRECT FIRE GUN MEDIUM">
+                        <unit app6aCode="EWMDMS-" name="DIRECT FIRE GUN MEDIUM SELF-PROPELLED">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="EWMDH--" name="DIRECT FIRE GUN HEAVY">
+                        <unit app6aCode="EWMDHS-" name="DIRECT FIRE GUN HEAVY SELF-PROPELLED">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="EWMA---" name="AIR DEFENSE GUN">
+                    <unit app6aCode="EWMAL--" name="AIR DEFENSE GUN LIGHT">
+                    </unit>
+                    <unit app6aCode="EWMAM--" name="AIR DEFENSE GUN MEDIUM">
+                    </unit>
+                    <unit app6aCode="EWMAH--" name="AIR DEFENSE GUN HEAVY">
+                    </unit>
+                </unit>
+            </unit>
+        </unit>
+        <unit app6aCode="EV----" name="GROUND VEHICLE">
+            <unit app6aCode="EVA---" name="ARMORED VEHICLE">
+                <unit app6aCode="EVAT--" name="TANK">
+                    <unit app6aCode="EVATL-" name="TANK LIGHT">
+                        <unit app6aCode="EVATW-" name="TANK LIGHT RECOVERY">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="EVATM-" name="TANK MEDIUM">
+                        <unit app6aCode="EVATX-" name="TANK MEDIUM RECOVERY">
+                        </unit>
+                    </unit>
+                    <unit app6aCode="EVATH-" name="TANK HEAVY">
+                        <unit app6aCode="EVATY-" name="TANK HEAVY RECOVERY">
+                        </unit>
+                    </unit>
+                </unit>
+                <unit app6aCode="EVAA--" name="ARMORED PERSONNEL CARRIER">
+                    <unit app6aCode="EVAAR-" name="ARMORED PERSONNEL CARRIER RECOVERY">
+                    </unit>
+                </unit>
+                <unit app6aCode="EVAI--" name="ARMORED INFANTRY">
+                </unit>
+                <unit app6aCode="EVAC--" name="C2V/ACV">
+                </unit>
+                <unit app6aCode="EVAS--" name="COMBAT SERVICE SUPPORT VEHICLE">
+                </unit>
+                <unit app6aCode="EVAL--" name="LIGHT ARMORED VEHICLE">
+                </unit>
+            </unit>
+            <unit app6aCode="EVU---" name="UTILITY VEHICLE">
+                <unit app6aCode="EVUB--" name="BUS">
+                </unit>
+                <unit app6aCode="EVUS--" name="SEMI">
+                </unit>
+                <unit app6aCode="EVUL--" name="LIMITED CROSS-COUNTRY TRUCK">
+                </unit>
+                <unit app6aCode="EVUX--" name="CROSS-COUNTRY TRUCK">
+                </unit>
+                <unit app6aCode="EVUR--" name="WATER CRAFT">
+                </unit>
+            </unit>
+            <unit app6aCode="EVE---" name="ENGINEER VEHICLE">
+                <unit app6aCode="EVEB--" name="BRIDGE">
+                </unit>
+                <unit app6aCode="EVEE--" name="EARTHMOVER">
+                </unit>
+                <unit app6aCode="EVEC--" name="CONSTRUCTION VEHICLE">
+                </unit>
+                <unit app6aCode="EVEM--" name="MINE LAYING VEHICLE">
+                    <unit app6aCode="EVEMA-" name="ARMORED VEHICLE MOUNTED">
+                    </unit>
+                    <unit app6aCode="EVEMT-" name="TRAILER MOUNTED">
+                    </unit>
+                    <unit app6aCode="EVEMV-" name="ARMORED CARRIER WITHVOLCANO">
+                    </unit>
+                    <unit app6aCode="EVEML-" name="TRUCK MOUNTED WITHVOLCANO">
+                    </unit>
+                </unit>
+                <unit app6aCode="EVED--" name="DOZER">
+                </unit>
+            </unit>
+            <unit app6aCode="EVST--" name="TRAIN LOCOMOTIVE">
+            </unit>
+            <unit app6aCode="EVC---" name="CIVILIAN VEHICLE">
+            </unit>
+        </unit>
+        <unit app6aCode="ES----" name="SENSOR">
+            <unit app6aCode="ESR---" name="RADAR">
+            </unit>
+            <unit app6aCode="ESE---" name="EMPLACED SENSOR">
+            </unit>
+        </unit>
+        <unit app6aCode="EX----" name="SPECIAL EQUIPMENT">
+            <unit app6aCode="EXL---" name="LASER">
+            </unit>
+            <unit app6aCode="EXN---" name="NBCEQUIPMENT">
+            </unit>
+            <unit app6aCode="EXF---" name="FLAME THROWER">
+            </unit>
+            <unit app6aCode="EXM---" name="LAND MINES">
+                <unit app6aCode="EXMC--" name="CLAYMORE">
+                </unit>
+                <unit app6aCode="EXML--" name="LESS THAN LETHAL">
+                </unit>
+            </unit>
+        </unit>
+    </unit>
+    <unit app6aCode="I-----H" name="INSTALLATION">
+        <unit app6aCode="IR----H" name="RAW MATERIAL PRODUCTION/STORAGE">
+            <unit app6aCode="IRM---H" name="MINE">
+            </unit>
+            <unit app6aCode="IRP---H" name="PETROLEUM/GAS/OIL">
+            </unit>
+            <unit app6aCode="IRN---H" name="NBC">
+                <unit app6aCode="IRNB--H" name="BIOLOGICAL">
+                </unit>
+                <unit app6aCode="IRNC--H" name="CHEMICAL">
+                </unit>
+                <unit app6aCode="IRNN--H" name="NUCLEAR">
+                </unit>
+            </unit>
+        </unit>
+        <unit app6aCode="IP----H" name="PROCESSING FACILITY">
+            <unit app6aCode="IPD---H" name="DECON">
+            </unit>
+        </unit>
+        <unit app6aCode="IE----H" name="EQUIPMENT MANUFACTURE">
+        </unit>
+        <unit app6aCode="IU----H" name="SERVICE, RESEARCH, UTILITY FACILITY">
+            <unit app6aCode="IUR---H" name="TECHNOLOGICAL RESEARCHFACILITY">
+            </unit>
+            <unit app6aCode="IUT---H" name="TELECOMMUNICATIONS FACILITY">
+            </unit>
+            <unit app6aCode="IUE---H" name="ELECTRICPOWER FACILITY">
+            </unit>
+            <unit app6aCode="IUP---H" name="PUBLICWATER SERVICES">
+            </unit>
+        </unit>
+        <unit app6aCode="IM----H" name="MILITARY MATERIEL FACILITY (NO SYMBOL IN SPECIFICATION)">
+            <unit app6aCode="IMF---H" name="ATOMICENERGY PRODUCTION">
+            </unit>
+            <unit app6aCode="IMA---H" name="AIRCRAFT PRODUCTION &amp; ASSEMBLY">
+            </unit>
+            <unit app6aCode="IME---H" name="AMMUNITION AND EXPLOSIVES PRODUCTION">
+            </unit>
+            <unit app6aCode="IMG---H" name="ARMAMENT PRODUCTION">
+            </unit>
+            <unit app6aCode="IMV---H" name="MILITARY VEHICLE PRODUCTION">
+            </unit>
+            <unit app6aCode="IMN---H" name="ENGINEERING EQUIPMENT PRODUCTION">
+                <unit app6aCode="IMNB--H" name="BRIDGE">
+                </unit>
+            </unit>
+            <unit app6aCode="IMC---H" name="CHEMICAL &amp; BIOLOGICAL WARFARE PRODUCTION">
+            </unit>
+            <unit app6aCode="IMS---H" name="SHIP CONSTRUCTION">
+            </unit>
+            <unit app6aCode="IMM---H" name="MISSILE &amp; SPACE SYSTEM PRODUCTION">
+            </unit>
+        </unit>
+        <unit app6aCode="IG----H" name="GOVERNMENT LEADERSHIP">
+        </unit>
+        <unit app6aCode="IB----H" name="MILITARY BASE/FACILITY">
+            <unit app6aCode="IBA---H" name="AIRPORT/AIRBASE">
+            </unit>
+            <unit app6aCode="IBN---H" name="SEAPORT/NAVAL BASE">
+            </unit>
+        </unit>
+        <unit app6aCode="IT----H" name="TRANSPORT FACILITY">
+        </unit>
+        <unit app6aCode="IX----H" name="MEDICAL FACILITY">
+            <unit app6aCode="IXH---H" name="HOSPITAL">
+            </unit>
+        </unit>
+    </unit>
+    <unit app6aCode="MGA---" name="AREAS">
+        <unit app6aCode="MGAU--" name="UNSPECIFIED AREA">
+            <unit app6aCode="MGAUA-" name="GENERAL AREA"></unit>
+            <unit app6aCode="MGAUAF" name="FRIENDLY"></unit>
+            <unit app6aCode="MGAUAP" name="FRIENDLY PLANNED/ON ORDER"></unit>
+            <unit app6aCode="MGAUAE" name="ENEMY KNOWN/CONFIRMED"></unit>
+            <unit app6aCode="MGAUAS" name="ENEMY SUSPECTED/TEMPLATED"></unit>
+        </unit>
+        <unit app6aCode="MGAUB-" name="ASSEMBLY AREA">
+            <unit app6aCode="MGAUBO" name="OCCUPIED"></unit>
+            <unit app6aCode="MGAUBM" name="OCCUPIED BY MULTIPLE UNITS"></unit>
+            <unit app6aCode="MGAUBR" name="PROPOSED/ON ORDER"></unit>
+            <unit app6aCode="MGAS--" name="SPECIFIED AREA"></unit>
+            <unit app6aCode="MGASD-" name="DROP ZONE (DZ)"></unit>
+            <unit app6aCode="MGASE-" name="EXTRACTION ZONE (EZ)"></unit>
+            <unit app6aCode="MGASL-" name="LANDING ZONE (LZ)"></unit>
+            <unit app6aCode="MGASP-" name="PICKUP ZONE (PZ)"></unit>
+            <unit app6aCode="MGASS-" name="SEARCH AREA/RECONNAISSANCE AREA"></unit>
+            <unit app6aCode="MGASM-" name="LIMITED ACCESS AREA"></unit>
+            <unit app6aCode="MGASG-" name="ENGAGEMENT"></unit>
+        </unit>
+    </unit>
+</unit>
